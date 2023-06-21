@@ -1,0 +1,375 @@
+{
+  "search_metadata": {
+    "id": "645a554a2fe302bc5222a930",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/c323f3023866930d/645a554a2fe302bc5222a930.json",
+    "created_at": "2023-05-09 14:14:34 UTC",
+    "processed_at": "2023-05-09 14:14:34 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=data+science+senegal&ibp=htl;jobs&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/c323f3023866930d/645a554a2fe302bc5222a930.html",
+    "total_time_taken": 14.99
+  },
+  "search_parameters": {
+    "q": "data science senegal",
+    "engine": "google_jobs",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "jobs_results": [
+    {
+      "title": "Senior Data Scientist",
+      "company_name": "Recruiting from Scratch",
+      "location": "  St Louis, Senegal   ",
+      "via": "via LinkedIn Senegal",
+      "description": "Who is Recruiting from Scratch:\n\nRecruiting from Scratch is a premier talent firm that focuses on placing the best product managers, software, and hardware talent at innovative companies. Our team is 100% remote and we work with teams across the United States to help them hire. We work with companies funded by the best investors including Sequoia Capital, Lightspeed Ventures, Tiger Global Management, A16Z, Accel, DFJ, and more.\n\nAbout The Role\n\nOur platform involves ingesting and modeling hundreds of thousands of high-resolution timeseries, updated at 15-minute intervals.\n\nWe're looking for candidates who have experience building high-velocity machine learning systems from scratch.\n• Build advanced timeseries forecasting models at scale. Our customers depend on us to reliably forecast energy demand, both short term and long term, at micro and macro levels.\n• We use a combination of classical timeseries techniques as well as modern ML. We're not big on deep learning, but we're open to... the possibility.\n• Energy demand and generation both depend on climate and weather, so be prepared to learn lots about meteorology!\n• We are primarily Python based, but it's early days, so the right candidate can have a big impact on our tools and infrastructure.\n\nOur engineering team is still quite small, so the right candidate can have a big impact on our tools and infrastructure. We are strong supporters of open source and we encourage our employees to publish and give talks about the work they do with us.\n\nPerks\n\nWhile we are serious about our company’s culture, we aren’t going to force “culture” to prove that we are cool and fun. It’s a company filled with smart, genuinely nice individuals who are passionate about data science, energy and working together to build a product that can have a lasting impact on our planet.\n\nEven though we are a remote company with employees spread across the globe, we still believe human interaction is a good thing. All new employees will fly out to meet their manager within a month of being hired. We will also have an all-company event at least once a year so people can get to know each other in a more fun and social way.\n• Competitive salary\n• Health insurance\n• Free vision and dental insurance\n• Monthly gym membership stipend\n• Pre-tax commuter benefits\n• 401k\n• Stock options\n• Flexible work hours\n• Remote\n• Company events\n\nSalary Range: $120,000-$160,000 base",
+      "job_highlights": [
+        {
+          "items": [
+            "Who is Recruiting from Scratch:\n\nRecruiting from Scratch is a premier talent firm that focuses on placing the best product managers, software, and hardware talent at innovative companies. Our team is 100% remote and we work with teams across the United States to help them hire. We work with companies funded by the best investors including Sequoia Capital, Lightspeed Ventures, Tiger Global Management, A16Z, Accel, DFJ, and more.\n\nAbout The Role\n\nOur platform involves ingesting and modeling hundreds of thousands of high-resolution timeseries, updated at 15-minute intervals.\n\nWe're looking for candidates who have experience building high-velocity machine learning systems from scratch.\n• Build advanced timeseries forecasting models at scale. Our customers depend on us to reliably forecast energy demand, both short term and long term, at micro and macro levels.\n• We use a combination of classical timeseries techniques as well as modern ML. We're not big on deep learning, but we're open to... the possibility.\n• Energy demand and generation both depend on climate and weather, so be prepared to learn lots about meteorology!\n• We are primarily Python based, but it's early days, so the right candidate can have a big impact on our tools and infrastructure.\n\nOur engineering team is still quite small, so the right candidate can have a big impact on our tools and infrastructure. We are strong supporters of open source and we encourage our employees to publish and give talks about the work they do with us.\n\nPerks\n\nWhile we are serious about our company’s culture, we aren’t going to force “culture” to prove that we are cool and fun. It’s a company filled with smart, genuinely nice individuals who are passionate about data science, energy and working together to build a product that can have a lasting impact on our planet.\n\nEven though we are a remote company with employees spread across the globe, we still believe human interaction is a good thing. All new employees will fly out to meet their manager within a month of being hired. We will also have an all-company event at least once a year so people can get to know each other in a more fun and social way.\n• Competitive salary\n• Health insurance\n• Free vision and dental insurance\n• Monthly gym membership stipend\n• Pre-tax commuter benefits\n• 401k\n• Stock options\n• Flexible work hours\n• Remote\n• Company events\n\nSalary Range: $120,000-$160,000 base"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?hl=en&q=Recruiting+from+Scratch&sa=X&ved=0ahUKEwjevJKGtuj-AhXBGFkFHXTwAV4QmJACCLcJ",
+          "text": "See web results for Recruiting from Scratch"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfRxZ8pRuZwPdzMvA-f84DAa-TBCFPeFZgAgbywRg&s",
+      "extensions": [
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBTY2llbnRpc3QiLCJodGlkb2NpZCI6ImUxTk1PNWR0ZHM4QUFBQUFBQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVvd0NDc3dCUVVWek4ycE9WSFZKVldwaFpITnVibWh1YUZCUU1Fd3diR3haUkRGSGQwNDVPVlZQVVdJMWNUWjVRbEZpVWxwWmJGcHBaVmhwZHpKMk9XaHllRnAyU2t4dVRESnhjWGxEWjNwRVZuQmxRMVZDY1dwaWVVSnVUVjlZYlZwbmRrZzNjVE0yZGxodFpIaFhhM0JaT1dwNFEwaG9iVk5QU2w5c2JuUlBjelJ3Y21vNGIwbEtObFJqVkU1VE9FRmFUbmhDVUd4V01rUjRNVk5DVFY5R1N6aHhXVU5KVXpaRGFqVnBSRmxzWDFVeGNtMW9UREoxV0ZGMVNHdFNOakZQVm1SS1NrRndYekZxVEhscU1XZ3lFaGRYUmxaaFdrNDJkMGR6UjNnMVRtOVFPVTlEU0RoQlZSb2lRVTh0TUhKc05IZHRMWFZvTTB4VGEyaGxPWE5EZW1SWkxYQktSRVZmYlVzdGR3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiIubkZnMmVie2ZvbnQtd2VpZ2h0OjUwMH0uQmk2RGRje2ZvbnQtd2VpZ2h0OjUwMH1BcHBseSBvbiBMaW5rZWRJbiBTZW5lZ2FsIiwibGluayI6Imh0dHBzOi8vc24ubGlua2VkaW4uY29tL2pvYnMvdmlldy9zZW5pb3ItZGF0YS1zY2llbnRpc3QtYXQtcmVjcnVpdGluZy1mcm9tLXNjcmF0Y2gtMzQzNzQ5MjY3Nz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Data Scientist (H/F)",
+      "company_name": "Lengo",
+      "location": "  Dakar, Senegal   ",
+      "via": "via Wiijob",
+      "description": "Lengo combine des technologies d’intelligence artificielle avancées et une méthode digitale de crowdsourcing auprès de milliers de boutiquiers pour collecter et analyser les données en temps réel.\n\nNos tableaux de bord sont conçus pour les décideurs afin de piloter leur distribution et leur marketing.\n\nMissions:\n• de réaliser et mettre en œuvre le recueil de données\n• d’analyser les données et les restituer en information opérationnelle et stratégique\n• de coordonner avec une merveilleuse équipe\n• d’effectuer, par ailleurs, toutes autres taches confiées par le CEO et CO-F",
+      "job_highlights": [
+        {
+          "items": [
+            "Lengo combine des technologies d’intelligence artificielle avancées et une méthode digitale de crowdsourcing auprès de milliers de boutiquiers pour collecter et analyser les données en temps réel.\n\nNos tableaux de bord sont conçus pour les décideurs afin de piloter leur distribution et leur marketing.\n\nMissions:\n• de réaliser et mettre en œuvre le recueil de données\n• d’analyser les données et les restituer en information opérationnelle et stratégique\n• de coordonner avec une merveilleuse équipe\n• d’effectuer, par ailleurs, toutes autres taches confiées par le CEO et CO-F"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?hl=en&q=Lengo&sa=X&ved=0ahUKEwjevJKGtuj-AhXBGFkFHXTwAV4QmJACCN8J",
+          "text": "See web results for Lengo"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdCFdbykNtksdXw78CZNREVekC3ZVUCQBWtOghNQo&s",
+      "extensions": [
+        "Contractor"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Contractor"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCAoSC9GKSIsImh0aWRvY2lkIjoibU5VUkltMUJuV1FBQUFBQUFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXVJQkNxSUJRVVZ6TjJwT1VsOUdkMlpFTmpWSlFVdHZZMnRpTFhSR2RuRmFURzF3U1hsc2NEVjVVREpvVEdsVmVtTk9kRjg0UlhoRGEwVnZkMjU0ZFMxS1JqVjFZVWhVVFhKTmRubGFSblp1WVRneFpGQnFSRzFzZEU1UFRteE1iblV4ZERodGNrVlZaM0pmVWxkNVVraEdNV2RUZDIxSUxXWXphRFJFTWxnMExVNXhlRmxVYTBacVNYQXpjblpXZFdWaWJEQk1TalJaYVVKZmMwbDROMHhKWms5Q1dsOTNFaGRYUmxaaFdrNDJkMGR6UjNnMVRtOVFPVTlEU0RoQlZSb2lRVTh0TUhKc04wVTBOV1pWZWpKcmQzTTRWMEo0TTFKaVNWbG9UWEowVVZKWVFRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBXaWlqb2IiLCJsaW5rIjoiaHR0cHM6Ly93aWlqb2IuY29tL29mZnJlLWVtcGxvaS9kYXRhLXNjaWVudGlzdC1oLWYvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "DATA SCIENTIST INTERN",
+      "company_name": "false",
+      "location": "  Dakar, Senegal   ",
+      "via": "via Novojob.com",
+      "description": "About Yassir\n\nYassir is the leading super App for on demand, ride-hailing, last-mile delivery, payment services and more, set to change the way daily services are provided. It currently operates in 45 cities across multiple countries. It has raised $150 million in Series B funding, five times what it raised in its previous priced round last November with world class investors such as BOND and Y Combinator, which is the precursor of the likes of Airbnb, Stripe, Dropbox, Doordash, among others.\n\nWe’re not just about serving people - we’re about creating a marketplace to bring people what they need while infusing social values.\n\nLE POSTE\n\nNous recherchons un.e Stagiaire en Data Scientist Junior pour rejoindre notre bureau à Dakar. Rattaché.e au pôle Marketing, votre mission sera la suivante :\n\n- Création de Dashboards marketing & Product pour faciliter le suivi des KPI macro par les équipes ;\n- Création, analyses & suivi de Dashboards autour de l'acquisition et la rétention clients ;\n... Extraction régulière de segments clients pour piloter nos animations commerciales ;\n- Analyses ponctuelles approfondies permettant de développer nos ventes ;\n- Participation active aux études & sondages prospects & clients ;\n- Veille & études de marché sur notre secteur d'activité.\n\nVous avez envie de rejoindre une équipe jeune et dynamique ? Alors postulez maintenant et rejoignez-nous",
+      "job_highlights": [
+        {
+          "items": [
+            "About Yassir\n\nYassir is the leading super App for on demand, ride-hailing, last-mile delivery, payment services and more, set to change the way daily services are provided. It currently operates in 45 cities across multiple countries. It has raised $150 million in Series B funding, five times what it raised in its previous priced round last November with world class investors such as BOND and Y Combinator, which is the precursor of the likes of Airbnb, Stripe, Dropbox, Doordash, among others.\n\nWe’re not just about serving people - we’re about creating a marketplace to bring people what they need while infusing social values.\n\nLE POSTE\n\nNous recherchons un.e Stagiaire en Data Scientist Junior pour rejoindre notre bureau à Dakar. Rattaché.e au pôle Marketing, votre mission sera la suivante :\n\n- Création de Dashboards marketing & Product pour faciliter le suivi des KPI macro par les équipes ;\n- Création, analyses & suivi de Dashboards autour de l'acquisition et la rétention clients ;\n... Extraction régulière de segments clients pour piloter nos animations commerciales ;\n- Analyses ponctuelles approfondies permettant de développer nos ventes ;\n- Participation active aux études & sondages prospects & clients ;\n- Veille & études de marché sur notre secteur d'activité.\n\nVous avez envie de rejoindre une équipe jeune et dynamique ? Alors postulez maintenant et rejoignez-nous"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?hl=en&q=false&sa=X&ved=0ahUKEwjevJKGtuj-AhXBGFkFHXTwAV4QmJACCIoK",
+          "text": "See web results for false"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOyxikFM9U1GQiTDzJXqlAO91gGxO0QmHesaBJJ0R8Q_QwkYzM7_zqbOo&s",
+      "extensions": [
+        "30 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "30 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJEQVRBIFNDSUVOVElTVCBJTlRFUk4iLCJodGlkb2NpZCI6IkthSUZFNnJwekU4QUFBQUFBQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkV1SUJDcUlCUVVWek4ycE9WSFp5UmtOdk5ubEVPR0ZyUnkxM2VIaDZUMnhIVUVwZmVIbGZRbVZGUVRSVlozb3RiRWhQWVV0RFprcFdXVlJRWDFOaGRXTlZhMUIyTlVreFQycGxNRGczWjJsNWNXcFdTVzVOVFZwNVEwSkpiMm90UzFKdmJXRTJNMmd0TVc5NVMwNVNOQzFYYlZVMVp6Wk1ORGhDU21GUWFrMDFNazU0T0VKUGRqbE9SR1ozYWtwSlRtbElZMnRUYkhSemFGQTBXVk5aUWpkQ1FrWlFRVTlSRWhkWFJsWmhXazQyZDBkelIzZzFUbTlRT1U5RFNEaEJWUm9pUVU4dE1ISnNOR2Q2Um1sWE5ETjZUWEUyY1VkamFXVjFiVVpTTVVjek1XaG9kdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzMiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTm92b2pvYi5jb20iLCJsaW5rIjoiaHR0cHM6Ly93d3cubm92b2pvYi5jb20vc2VuZWdhbC9vZmZyZXMtZC1lbXBsb2kvb2ZmcmUtZC1lbXBsb2kvc2VuZWdhbC9kYWthci8xMjk5MDYtZGF0YS1zY2llbnRpc3QtaW50ZXJuP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Senior DevOps Engineer - Data and ML Infrastructure",
+      "company_name": "TESTLIO",
+      "location": "  Senegal   ",
+      "via": "via Emploisenegal.com",
+      "description": "As Senior DevOps Engineer, you will be a true partner and a member of Testlio’s engineering teams. You will be mainly focusing on DataOps and MLOps tasks to drive data engineering and data science initiatives that are essential part of our multi-region cloud platform. You will create, improve and support data infrastructure and toolings to achieve smooth operations and collaborations between functions and teams.\nWhy you will love this job?\nMake an impact by creating and driving data oriented solutions that enable data products to internal and external users.\nElevate Testlio’s cloud platform and development with new tools and data infrastructure.\nEmpower users with AI and data solutions to achieve more.\nWork within a small team and become a subject matter expert in your respective domain.\nWhy you will love being a part of Testlio?\nA true sense of belonging: the TestLion Pride is a global community of like-minded people who live Testlio’s six values every day. We’re deliberate about... building our community with virtual events and activities that keep us connected across the globe.\nGrowth through learning: knowledge exchange and learning are central to working at Testlio. You’ll find that motivated, experienced TestLions with diverse backgrounds can always introduce you to new perspectives. With unlimited Udemy access and custom-made courses, you've got the perfect environment for both personal and professional development.\nEnable human possibilities: your work at Testlio has a larger purpose. As a TestLion you will not only help our customers create well-built digital experiences for their users, but also create opportunities for Testlio's freelance network, and support social impact programs like Ignite.\nFreedom to roam: Testlio is a global company that embraces flexibility. You'll have room to work wherever within your region's main time zones. We also want to make sure you can take time off from work to rest. We honor national holidays in your home nation, and provide a generous number of days off, including personal wellness days.\nWhat would your day look like?\n• Implementing and managing scalable cloud system configurations and methodologies in AWS.\n• Work within the DevOps data engineering team, using your expertise to build highly automated provisioning, monitoring, and operational capabilities for data.\n• Support the ongoing growth, design, and expansion of our data platform, including an API layer\n• Help find, provision, and support data observability tooling.\n• Support Data Engineers in coding and integrating data pipelines for automated deployment.\n• Evaluate new tools and approaches to continuously evolve the team’s DataOps practice.\n• Ensure key SLAs are managed across a wide range of producers and consumers.\n• Build and run essential monitoring infrastructure supporting data pipelines.\n• Build and support machine learning initiatives and infrastructure, setups with Sagemaker and/or other (EC, Docker, Kubernetes).\n• Bridge the gaps between Dev-Data-ML Ops and build smooth operations.\n• Ensure our work respects the rights, regulations, and consent preferences of all stakeholders (PHI/PII, HIPAA, CCPA, GDPR, etc.).\n• Create Infrastructure changes via CloudFormation or other similar technologies to practice IaC.\n• Keeping systems secure, highly available and scalable. Resiliency is part of the solution",
+      "job_highlights": [
+        {
+          "items": [
+            "As Senior DevOps Engineer, you will be a true partner and a member of Testlio’s engineering teams. You will be mainly focusing on DataOps and MLOps tasks to drive data engineering and data science initiatives that are essential part of our multi-region cloud platform. You will create, improve and support data infrastructure and toolings to achieve smooth operations and collaborations between functions and teams.\nWhy you will love this job?\nMake an impact by creating and driving data oriented solutions that enable data products to internal and external users.\nElevate Testlio’s cloud platform and development with new tools and data infrastructure.\nEmpower users with AI and data solutions to achieve more.\nWork within a small team and become a subject matter expert in your respective domain.\nWhy you will love being a part of Testlio?\nA true sense of belonging: the TestLion Pride is a global community of like-minded people who live Testlio’s six values every day. We’re deliberate about... building our community with virtual events and activities that keep us connected across the globe.\nGrowth through learning: knowledge exchange and learning are central to working at Testlio. You’ll find that motivated, experienced TestLions with diverse backgrounds can always introduce you to new perspectives. With unlimited Udemy access and custom-made courses, you've got the perfect environment for both personal and professional development.\nEnable human possibilities: your work at Testlio has a larger purpose. As a TestLion you will not only help our customers create well-built digital experiences for their users, but also create opportunities for Testlio's freelance network, and support social impact programs like Ignite.\nFreedom to roam: Testlio is a global company that embraces flexibility. You'll have room to work wherever within your region's main time zones. We also want to make sure you can take time off from work to rest. We honor national holidays in your home nation, and provide a generous number of days off, including personal wellness days.\nWhat would your day look like?\n• Implementing and managing scalable cloud system configurations and methodologies in AWS.\n• Work within the DevOps data engineering team, using your expertise to build highly automated provisioning, monitoring, and operational capabilities for data.\n• Support the ongoing growth, design, and expansion of our data platform, including an API layer\n• Help find, provision, and support data observability tooling.\n• Support Data Engineers in coding and integrating data pipelines for automated deployment.\n• Evaluate new tools and approaches to continuously evolve the team’s DataOps practice.\n• Ensure key SLAs are managed across a wide range of producers and consumers.\n• Build and run essential monitoring infrastructure supporting data pipelines.\n• Build and support machine learning initiatives and infrastructure, setups with Sagemaker and/or other (EC, Docker, Kubernetes).\n• Bridge the gaps between Dev-Data-ML Ops and build smooth operations.\n• Ensure our work respects the rights, regulations, and consent preferences of all stakeholders (PHI/PII, HIPAA, CCPA, GDPR, etc.).\n• Create Infrastructure changes via CloudFormation or other similar technologies to practice IaC.\n• Keeping systems secure, highly available and scalable. Resiliency is part of the solution"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://testlio.com/",
+          "text": "testlio.com"
+        },
+        {
+          "link": "https://www.google.com/search?hl=en&q=TESTLIO&sa=X&ved=0ahUKEwjevJKGtuj-AhXBGFkFHXTwAV4QmJACCLcK",
+          "text": "See web results for TESTLIO"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Q_Lg4QNhINFDZ4pT3bF8hF4Kvr3eT_XNbMR0tmM&s",
+      "extensions": [
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGV2T3BzIEVuZ2luZWVyIC0gRGF0YSBhbmQgTUwgSW5mcmFzdHJ1Y3R1cmUiLCJodGlkb2NpZCI6IkQtRkRuNHE5ZXAwQUFBQUFBQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVxSUNDdUlCUVVWek4ycE9VbWxYZEMxNWJURkJOakZOWlZGUGRYUXdVbFl5UjBnMVVqSjZOVUZLVEdkMk1XNVZPRFI1VURVNWIxVm9kRjlSTWtsalRtMW1XVGhMZUhKUk9YbHhWR2xtYUROdllrUnFWRmRxUldSbE4wVjVWblJNUmt3eVRXRldUVVJzVlU4MFdIQlhSalkyYVZReFkwbzNPRTlHY25wMlpYTTFhMkZvT1RaYWRtUlRlV3RYY21odlNHZFJVVkI0Y1VWYVJ5MUlVRlp2Tm5CWU9XUklXQzFmWXpGSE0yTmxkMmhMY2xNNFVFVmtibmxSY214bFNqSnllbTl4ZG5Jd2FXMDBSell3ZVZWd1UzQnNNM1p0Y2xCQmQyMXdNbXRTY0hsWlF6bFpORWhqVVJJWFYwWldZVnBPTm5kSGMwZDROVTV2VURsUFEwZzRRVlVhSWtGUExUQnliRFl0ZWxoalNETktlWE5uUWpGT1NFOUpYMjV3Ym1aVFIxRTNTMmMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY180IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEVtcGxvaXNlbmVnYWwuY29tIiwibGluayI6Imh0dHBzOi8vd3d3LmVtcGxvaXNlbmVnYWwuY29tL29mZnJlLWVtcGxvaS1zZW5lZ2FsL3Nlbmlvci1kZXZvcHMtZW5naW5lZXItZGF0YS1tbC1pbmZyYXN0cnVjdHVyZS05NzA0MjY/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Spécialiste datamining & segmentation",
+      "company_name": "FREE Sénégal",
+      "location": "  Dakar, Senegal   ",
+      "via": "via Wiijob",
+      "description": "Missions\n\nCes principales responsabilités seront de :\n• Travailler avec les parties prenantes de l’équipe commerciale pour identifier les opportunités d’exploitation des données de l’entreprise pour piloter des solutions commerciales.\n• Extraire et analyser les données des bases de données pour optimiser et améliorer le développement de produits, les techniques de marketing et les stratégies commerciales.\n• Développer des modèles de données et des algorithmes customisées à appliquer sur les jeux de données.\n• Utiliser la modélisation prédictive pour augmenter et optimiser les expériences client, la génération de revenus, les ventes ciblées et d’autres résultats commerciaux.\n• Développer le framework d’A/B de l’entreprise et tester la qualité du modèle.\n• Coordonner avec différentes équipes fonctionnelles pour mettre en œuvre des modèles et surveiller les résultats.\n• Développer des processus et des outils pour surveiller et analyser les performances des modèles et l’exactitude des... données",
+      "job_highlights": [
+        {
+          "items": [
+            "Missions\n\nCes principales responsabilités seront de :\n• Travailler avec les parties prenantes de l’équipe commerciale pour identifier les opportunités d’exploitation des données de l’entreprise pour piloter des solutions commerciales.\n• Extraire et analyser les données des bases de données pour optimiser et améliorer le développement de produits, les techniques de marketing et les stratégies commerciales.\n• Développer des modèles de données et des algorithmes customisées à appliquer sur les jeux de données.\n• Utiliser la modélisation prédictive pour augmenter et optimiser les expériences client, la génération de revenus, les ventes ciblées et d’autres résultats commerciaux.\n• Développer le framework d’A/B de l’entreprise et tester la qualité du modèle.\n• Coordonner avec différentes équipes fonctionnelles pour mettre en œuvre des modèles et surveiller les résultats.\n• Développer des processus et des outils pour surveiller et analyser les performances des modèles et l’exactitude des... données"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.free.sn/",
+          "text": "free.sn"
+        },
+        {
+          "link": "https://www.google.com/search?hl=en&q=FREE+S%C3%A9n%C3%A9gal&sa=X&ved=0ahUKEwjevJKGtuj-AhXBGFkFHXTwAV4QmJACCOMK",
+          "text": "See web results for FREE Sénégal"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQENzbvtEFrOhwutthXIgDAukfa2MZ0K-SmT4si5so&s",
+      "extensions": [
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTcMOpY2lhbGlzdGUgZGF0YW1pbmluZyBcdTAwMjYgc2VnbWVudGF0aW9uIiwiaHRpZG9jaWQiOiJNemFaSXNEX2hXOEFBQUFBQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFcUlDQ3VJQlFVVnpOMnBPVkRsVGMweG5SelJUYW1sS1JXRktNVUpZUkRnMlowbzNkR2hzZGpoNFJUZEtNVzAwV0ZGd1gxaHVRUzB6Y0cxTVRWQTBaek5UUVZJNWRrVnFhbk5XYTFOU1ZqUmFRWFF4U1c4NFVqSllRMWhJVFY5TlJUQmpRbWh6UzNwaFUzTnZUa281WW0wMmRuTXlWR1JTUVUxeFl6RTBUakJPUVVKb2FrVlJkbU0wYzJwcE9GQmFWRVZXTlU4MFpFbFNRMFJ2UWw5clFWUTBXRnAyVWtvMlZqTm5VMnhsT1dkUVZETktTMGgzVGxKSFRreHdheTFrY1VWeVRWaElWMEpYV0dkNFduZFJTVmx0TjBGemNFazVlbGhGZUhGWWNFMHhWa0ZNTVdwR1VSSVhWMFpXWVZwT05uZEhjMGQ0TlU1dlVEbFBRMGc0UVZVYUlrRlBMVEJ5YkRabmJWUXRNV2gzTldwUVZ6WjNkMjlXTVdSV1VUaHRlbXRIVUdjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBXaWlqb2IiLCJsaW5rIjoiaHR0cHM6Ly93aWlqb2IuY29tL29mZnJlLWVtcGxvaS9zcGVjaWFsaXN0ZS1kYXRhbWluaW5nLXNlZ21lbnRhdGlvbi8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Senior Data Engineer",
+      "company_name": "TESTLIO",
+      "location": "  Senegal   ",
+      "via": "via Emploisenegal.com",
+      "description": "No matter which apps you use, there’s a good chance that you’ve seen Testlio’s work in action. We test apps for top brands like the NBA, Paramount+, Netflix, Microsoft, SAP, and Amazon, as well as the most popular social networks and innovative growth companies. Our testing management platform, a global network of expert testers, and client services power mobile app and software testing at any scale, in any location, in any language, and on any device. Billions of people have a better digital experience thanks to Testlio.\nWe envision our Platform to be offering insights and deeper data capabilities to practice the data-driven decisions to release software. Data Engineering is instrumental in our quest for insights-driven testing solutions. The Senior Data Engineer role is vital to our team to build DataOps and MLOps capabilities. Driving data architecture and strategy, you will be in the spotlight to drive the next wave of innovations and solutions of Testlio Platform. In Testlio we... conceive data as a key asset for the future of the company, and therefore playing this role implies working together with data scientists, infrastructure engineers and product engineering to help build market leading solutions.\nWhy you will love this job?\n• People – ability to work with passionate people and have fun together.\n• Challenging – work with AWS services like Glue, Redshift, Wrangler, Batch and custom toolings to connect MySQL, MariaDB and CSV or other data sources into new data, new value, new insights.\n• Impact – democratize data access within the company by data governance model, tools and systems, keep data integrity at high quality, drive data strategy.\n• Innovate – help create data models and fuel AI/ML model trainings and operations, to cultivate data-driven operations and experiences for users.\n\nWhy you will love being a part of Testlio?\n• A true sense of belonging: the TestLion Pride is a global community of like-minded people who live Testlio’s six values every day. We’re deliberate about building our community with virtual events and activities that keep us connected across the globe.\n• Growth through learning: knowledge exchange and learning are central to working at Testlio. You’ll find that motivated, experienced TestLions with diverse backgrounds can always introduce you to new perspectives. With unlimited Udemy access and custom-made courses, you've got the perfect environment for both personal and professional development.\n• Enable human possibilities: your work at Testlio has a larger purpose. As a TestLion you will not only help our customers create well-built digital experiences for their users, but also create opportunities for Testlio's freelance network, and support social impact programs like Ignite.\n• Freedom to roam: Testlio is a global company that embraces flexibility. You'll have room to work wherever within your region's main time zones. We also want to make sure you can take time off from work to rest. We honor national holidays in your home nation, and provide a generous number of days off, including personal wellness days.\n\nWhat would your day look like?\n• Design, develop, install, test and maintain data management systems, incl. Testlio’s Data Platform.\n• Build the solution required for optimal extraction, transformation, and loading of data from a wide variety of data sources into data warehouses or other destined data storages.\n• Advise engineering teams to design great data schemas at collection level.\n• Design and support teams to build optimal and right architectures to build data pipelines to surface data to right features, capabilities to end users - empower users with data access.\n• Own, operate and maintain data lakes and warehouses as well as any tools required for data ETL, batching or business intelligence systems. Tools like DBT, Airflow, Glue, Wrangler, Redshift.\n• Support product teams to generate programmatically test and demo data.\n• Install/update data disaster recovery procedures for data systems.\n• Recommend different ways to constantly improve data reliability, integrity and quality.\n• Work with various owners from other departments to analyze their needs for any data reports.\n• Work with the Data Science community to establish harmony with DataOps and MLOps",
+      "job_highlights": [
+        {
+          "items": [
+            "No matter which apps you use, there’s a good chance that you’ve seen Testlio’s work in action. We test apps for top brands like the NBA, Paramount+, Netflix, Microsoft, SAP, and Amazon, as well as the most popular social networks and innovative growth companies. Our testing management platform, a global network of expert testers, and client services power mobile app and software testing at any scale, in any location, in any language, and on any device. Billions of people have a better digital experience thanks to Testlio.\nWe envision our Platform to be offering insights and deeper data capabilities to practice the data-driven decisions to release software. Data Engineering is instrumental in our quest for insights-driven testing solutions. The Senior Data Engineer role is vital to our team to build DataOps and MLOps capabilities. Driving data architecture and strategy, you will be in the spotlight to drive the next wave of innovations and solutions of Testlio Platform. In Testlio we... conceive data as a key asset for the future of the company, and therefore playing this role implies working together with data scientists, infrastructure engineers and product engineering to help build market leading solutions.\nWhy you will love this job?\n• People – ability to work with passionate people and have fun together.\n• Challenging – work with AWS services like Glue, Redshift, Wrangler, Batch and custom toolings to connect MySQL, MariaDB and CSV or other data sources into new data, new value, new insights.\n• Impact – democratize data access within the company by data governance model, tools and systems, keep data integrity at high quality, drive data strategy.\n• Innovate – help create data models and fuel AI/ML model trainings and operations, to cultivate data-driven operations and experiences for users.\n\nWhy you will love being a part of Testlio?\n• A true sense of belonging: the TestLion Pride is a global community of like-minded people who live Testlio’s six values every day. We’re deliberate about building our community with virtual events and activities that keep us connected across the globe.\n• Growth through learning: knowledge exchange and learning are central to working at Testlio. You’ll find that motivated, experienced TestLions with diverse backgrounds can always introduce you to new perspectives. With unlimited Udemy access and custom-made courses, you've got the perfect environment for both personal and professional development.\n• Enable human possibilities: your work at Testlio has a larger purpose. As a TestLion you will not only help our customers create well-built digital experiences for their users, but also create opportunities for Testlio's freelance network, and support social impact programs like Ignite.\n• Freedom to roam: Testlio is a global company that embraces flexibility. You'll have room to work wherever within your region's main time zones. We also want to make sure you can take time off from work to rest. We honor national holidays in your home nation, and provide a generous number of days off, including personal wellness days.\n\nWhat would your day look like?\n• Design, develop, install, test and maintain data management systems, incl. Testlio’s Data Platform.\n• Build the solution required for optimal extraction, transformation, and loading of data from a wide variety of data sources into data warehouses or other destined data storages.\n• Advise engineering teams to design great data schemas at collection level.\n• Design and support teams to build optimal and right architectures to build data pipelines to surface data to right features, capabilities to end users - empower users with data access.\n• Own, operate and maintain data lakes and warehouses as well as any tools required for data ETL, batching or business intelligence systems. Tools like DBT, Airflow, Glue, Wrangler, Redshift.\n• Support product teams to generate programmatically test and demo data.\n• Install/update data disaster recovery procedures for data systems.\n• Recommend different ways to constantly improve data reliability, integrity and quality.\n• Work with various owners from other departments to analyze their needs for any data reports.\n• Work with the Data Science community to establish harmony with DataOps and MLOps"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://testlio.com/",
+          "text": "testlio.com"
+        },
+        {
+          "link": "https://www.google.com/search?hl=en&q=TESTLIO&sa=X&ved=0ahUKEwjevJKGtuj-AhXBGFkFHXTwAV4QmJACCI8L",
+          "text": "See web results for TESTLIO"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Q_Lg4QNhINFDZ4pT3bF8hF4Kvr3eT_XNbMR0tmM&s",
+      "extensions": [
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBFbmdpbmVlciIsImh0aWRvY2lkIjoiLVhIbDNCeVA3Y0VBQUFBQUFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXZjQkNyY0JRVVZ6TjJwT1VtY3dZazlSU1RGdFdFNWtUbHB5YkRCaVh6ZG5iRWs0UjJvNWIyODRhbFpCUlRoT1dqbEdkR1l4UldrM05XbEdkSEUxTFVobllrUjRUWEJhU0hSNFVscDBlamN5VTE5SGNYTnBVamg1Y2t0clNXSkxRVE5CYlZCTVUwTXRiRGROVHpsUVNWYzFiVFZFYUhwR1NrVjVlbGxxUlRWdldHMDRVWG80YjA1R01ESlBNMUJGY21NeFRUTTNObU5mT1dnMmNVeHFjRkEyV2pJM1RHUndhMVY1YVhoUVgwNVdiRUY0ZG5WQlFXcGxiR2xqRWhkWFJsWmhXazQyZDBkelIzZzFUbTlRT1U5RFNEaEJWUm9pUVU4dE1ISnNORTR3Y0dOUldIaGZRMWQ1V2psalpucHpUa3BMT1d4MFoxZFlRUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzgiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gRW1wbG9pc2VuZWdhbC5jb20iLCJsaW5rIjoiaHR0cHM6Ly93d3cuZW1wbG9pc2VuZWdhbC5jb20vb2ZmcmUtZW1wbG9pLXNlbmVnYWwvc2VuaW9yLWRhdGEtZW5naW5lZXItOTY5NjM2P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Statistician - Research, Evaluation, and Data (RED) Team and Data...",
+      "company_name": "IDinsight",
+      "location": "  Dakar, Senegal   ",
+      "via": "via Talent.com",
+      "description": "Statistician - Research, Evaluation, and Data (RED) Team and Data on Demand Team\n\nLocations : East Africa (Nairobi, Kenya); South Asia (Delhi, Hyderabad, Jaipur*, India); Southeast Asia (Manila, Philippines and Jakarta, Indonesia*);\n\nSouthern Africa (Lusaka, Zambia or Lilongwe, Malawi*); West & North Africa (Rabat, Morocco or Dakar, Senegal)\n\nAbout IDinsight\n\nWe amplify social impact by partnering with leaders to develop tailored solutions. Our mission is to use data and evidence to help leaders combat poverty worldwide.\n\nIDinsight is a mission-driven global advisory, data analytics, and research organization that helps global development leaders maximize their social impact.\n\nWe tailor a wide range of data and evidence tools, including randomized evaluations and machine learning, to help decision-makers design effective programs and rigorously test what works to support communities.\n\nWe work with governments, multilateral agencies, foundations, and innovative non-profit organizations... in Asia and Africa.\n\nOur work spans a wide range of sectors, including agriculture, education, health, governance, sanitation, financial inclusion, and other areas.\n\nWe have expertise in a variety of rigorous approaches and methodologies, which we tailor to each client depending on their needs and constraints.\n\nTo achieve a positive social impact we :\n• Support clients’ use of data and evidence for routine and major decision-making.\n• Inform funding decisions toward high-impact initiatives and away from less effective programs or approaches.\n• Create and share tools, knowledge, and ideas that expand the use of data and evidence for social good.\n\nAbout the RED Team\n\nThe RED Team is the nerve center behind IDinsight's mission to conduct high-quality, technically accurate, rigorous, ethical, and transparent work.\n\nRED Team members are the sectoral specialists and methodological experts on client engagements. And it takes the lead on some of the most technically complex client engagements, such as the data science, data engineering and monitoring systems work.\n\nIt is responsible for setting the technical standards and producing and maintaining the technical resources of the organization, while ensuring the technical professional development of all IDinsight staff.\n\nAbout the DoD Team\n\nData on Demand (DoD) intends to amplify social sector impact worldwide by making accurate data on hard-to-reach, low-income populations an order of magnitude faster and cheaper. DoD works via :\n• Networks of hyper-local surveyors that execute data collection tasks near their homes\n• Representative, mobile-enabled household panels for rapid phone surveys\n• Custom software to efficiently manage productivity of remote staff and data quality\n\nDoD can currently provide representative data for 140 million people in India and we are rapidly expanding within and beyond India.\n\nAbout the Statistician’s role\n\nThe Statistician will support a large portfolio, across diverse geographies, sectors, and methodologies. The Statistician will primarily work on the design and analysis of representative sample surveys, working closely with IDinsight’s DoD team, but will have an opportunity to contribute to causal analysis ( impact evaluation ) and data science initiatives.\n\nThe Statistician will think critically about how to optimize methodological rigor given our clients’ time, operational, political and budget constraints.\n\nThe ideal candidate should love having many different types of problems thrown at them, be able to quickly digest and understand the program and evidence objectives, and provide advice and guidance on how best to proceed.\n\nThe Statistician will be an important member of IDinsight’s Research Evaluation and Data (RED) Team. The RED Team is responsible for ensuring that the services we provide to clients are statistically and methodologically sound.\n\nIn collaboration with the RED Team lead and personnel, the Researcher’s role will include, the following activities :\n\nDesigning and implementing representative sample surveys and other related activities for IDinsight clients in collaboration with project teams .\n\nThe Statistician will play a key role along with our client teams in designing and implementing studies for IDinsight clients, including in-person household surveys, secondary analysis of administrative data sets (like IHDS), strengthening data quality controls , remote surveys, complex estimation techniques (e.\n\ng. multiple frames, hierarchical modelling, etc.), and incorporating recent developments in data science in primary survey design and analysis. ,.\n\nEnsuring technical rigor of project deliverables . The Statistician will support project teams in drafting and refining technical documents, which include research designs, pre-analysis plans, sample size calculations, data collection instruments, technical reports, and other documents.\n\nThe Statistician will also be a crucial resource to the country office where he or she is stationed by providing technical expertise on short-term issues that confront project teams.\n• Contribute to technical innovations : The Statistician will work with project teams and external collaborators to contribute to innovation efforts in sampling design (ex : GIS based, prediction approaches to sampling theory), data quality (ex : machine learning to predict data quality issues), embedded experiments for survey methodology, and analytical techniques (ex : Small area estimation, Bayesian modelling and inference), and other related topics.\n• Working with culturally and geographically diverse project teams . The Statistician will work with project teams that can be spread across the globe, from different nationalities and cultures.\n• Supporting the technical professional development of staff . The Statistician will prepare and lead training sessions on technical topics (such as sampling design, statistical inference) on a regular basis.\n\nHe or she will also provide individualised support to staff on their technical professional development.\n• Publishing IDinsight studies in academic and policy journals . The Statistician will have the opportunity to co-author publications in academic and policy journals to showcase results from IDinsight studies, based on IDinsight’s client needs and the Statistician’s interest.\n• Develop new projects and services . The Statistician will have the opportunity to develop new projects and client relationships in accordance with IDinsight’s values of client-focused and decision-focused research.\n\nThe Statistician will be expected to fulfill these responsibilities and others with professionalism and on strict deadlines.\n\nHe or she will also be expected to propose, design and implement new initiatives for supporting project teams and increasing the technical rigor of IDinsight’s work.\n\nQualifications\n• Deeply passionate about social, economic, and environmental policies and programs, and social impact\n• Advanced degree in statistics, demographics, population studies, survey methodology, economics, econometrics, political science, public policy, public health, sociology, anthropology or other applied fields.\n• Outstanding quantitative and critical thinking skills\n• Self-starter who will thrive in a start-up setting by taking ownership and initiative\n• Intellectual curiosity and sense of humor\n• Significant experience with either Stata or R required. Experience with additional programming languages a plus\n• Prior work authorization in one of the position locations\n• Deep contextual knowledge and experience in the regions where IDinsight works\n• Candidates interested in the Senegal or Rabat office should ideally be fluent in French.\n\nProfessional development\n\nProfessional development for Researchers is essential for IDinsight’s long-term impact. With support from IDinsight leadership, Researchers maintain self-directed professional development plans and are given \"stretch\" opportunities designed to strengthen their professional skills.\n\nReal-time feedback and structured reviews are regularly provided to maximise each Researcher’s expertise. IDinsight’s entrepreneurial culture allows roles and career progression to be tailored to individual strengths, interests, and goals.\n\nResearchers have the opportunity to increase responsibilities, and high performers will have the opportunity to move up in the organisation along technical, managerial, or client-facing paths.\n\nOpportunities to protect a small portion of time for the candidate to work on their own research agenda may be possible.\n\nNuts & bolts\n\nLocation\n\nThis position should be based in one of IDinsight’s offices (Dakar, Senegal; Delhi, India; Lusaka, Zambia; Manila, Philippines;\n\nNairobi, Kenya; or Rabat, Morocco) or with one of IDinsight’s satellite teams (Jaipur, India; Jakarta, Indonesia or Lilongwe, Malawi).\n\nPreference will be given to those with pre-existing work authorization in these countries; however, IDInsight will seek work permits where possible for exceptional candidates.\n\nStart date\n\nThe start date of this position is rolling, with preference for candidates that can start immediately. We expect a two-year minimum commitment, with regular professional development conversations and potential for a long-term career at IDinsight.\n\nWork authorization\n\nIDinsight is able to sponsor employment visas for all nationalities in these locations; however, we will prioritise candidates who do not require IDinsight to sponsor work authorization in the aforementioned countries.\n\nAll candidates who are not currently located in our country offices listed above will be expected to relocate to their office locations at the onset of their employment.\n\nCompensation\n\nCompensation and benefits are commensurate with the qualifications and experiences IDinsight is hiring for, and competitive within the global development sector.\n\nWe are especially proud of the people-focused benefits we offer including comprehensive international health insurance, including mental health coverage;\n\npaid vacation, sick, and parental leave; relocation benefits; a travel stipend; technology and work from home stipends; a professional development budget; and more.\n\nPlease note, as a non-profit, we are unable to provide compensation similar to leading private sector organisations.\n\nHow to apply\n\nPlease click the \"Apply for this job online\" button at the top right. . The application asks various questions in order for us to get to know you, and requires a CV and cover letter .\n\nPlease ensure that your CV includes relevant professional and personal experience as well as details on academic qualifications.\n\nCVs can range from one to two pages. Please note, headshot photographs, parental details, birth dates, marital status and other personal information not relevant to the application do not need to be included in your CV.\n\nAdditionally, we strongly encourage you to use your cover letter to highlight why you want to work for IDinsight specifically, and what has prepared you to succeed in the role you’re applying for.\n\nA customized cover letter is an important part of IDinsight’s recruiting process as it allows us to understand your motivations for the position, relevant skills, and clarity of writing.\n\nIDinsight’s commitment to reducing power asymmetries\n\nIDinsight is committed to . Our commitment to diversity, equity, and inclusion reflects our understanding of the need for the sector to abandon unhealthy practices of the past.\n\nWe wish to be part of a new generation of international NGOs who are honest about this history and transparent about our role in the present.\n\nOur commitment is also aligned with the impact of our work.\n\nWe seek a workforce that is inclusive of a variety of perspectives that will help us refine and improve our methods and relationships, and strengthen the services we provide our clients and their communities or constituencies.\n\nThe following commitments represent our vision for the IDinsight team :\n• IDinsight will have greater representation from the populations with whom we work and clients we serve .\n• IDinsight will have greater representation from the countries in which we work .\n• Across all countries in which we recruit, we will seek greater representation from historically excluded communities .\n• IDinsight will foster an inclusive work culture that empowers a diverse team to do their best work.\n\nIDinsight is an equal opportunity employer and strives to create a diverse and supportive workplace",
+      "job_highlights": [
+        {
+          "items": [
+            "Statistician - Research, Evaluation, and Data (RED) Team and Data on Demand Team\n\nLocations : East Africa (Nairobi, Kenya); South Asia (Delhi, Hyderabad, Jaipur*, India); Southeast Asia (Manila, Philippines and Jakarta, Indonesia*);\n\nSouthern Africa (Lusaka, Zambia or Lilongwe, Malawi*); West & North Africa (Rabat, Morocco or Dakar, Senegal)\n\nAbout IDinsight\n\nWe amplify social impact by partnering with leaders to develop tailored solutions. Our mission is to use data and evidence to help leaders combat poverty worldwide.\n\nIDinsight is a mission-driven global advisory, data analytics, and research organization that helps global development leaders maximize their social impact.\n\nWe tailor a wide range of data and evidence tools, including randomized evaluations and machine learning, to help decision-makers design effective programs and rigorously test what works to support communities.\n\nWe work with governments, multilateral agencies, foundations, and innovative non-profit organizations... in Asia and Africa.\n\nOur work spans a wide range of sectors, including agriculture, education, health, governance, sanitation, financial inclusion, and other areas.\n\nWe have expertise in a variety of rigorous approaches and methodologies, which we tailor to each client depending on their needs and constraints.\n\nTo achieve a positive social impact we :\n• Support clients’ use of data and evidence for routine and major decision-making.\n• Inform funding decisions toward high-impact initiatives and away from less effective programs or approaches.\n• Create and share tools, knowledge, and ideas that expand the use of data and evidence for social good.\n\nAbout the RED Team\n\nThe RED Team is the nerve center behind IDinsight's mission to conduct high-quality, technically accurate, rigorous, ethical, and transparent work.\n\nRED Team members are the sectoral specialists and methodological experts on client engagements. And it takes the lead on some of the most technically complex client engagements, such as the data science, data engineering and monitoring systems work.\n\nIt is responsible for setting the technical standards and producing and maintaining the technical resources of the organization, while ensuring the technical professional development of all IDinsight staff.\n\nAbout the DoD Team\n\nData on Demand (DoD) intends to amplify social sector impact worldwide by making accurate data on hard-to-reach, low-income populations an order of magnitude faster and cheaper. DoD works via :\n• Networks of hyper-local surveyors that execute data collection tasks near their homes\n• Representative, mobile-enabled household panels for rapid phone surveys\n• Custom software to efficiently manage productivity of remote staff and data quality\n\nDoD can currently provide representative data for 140 million people in India and we are rapidly expanding within and beyond India.\n\nAbout the Statistician’s role\n\nThe Statistician will support a large portfolio, across diverse geographies, sectors, and methodologies. The Statistician will primarily work on the design and analysis of representative sample surveys, working closely with IDinsight’s DoD team, but will have an opportunity to contribute to causal analysis ( impact evaluation ) and data science initiatives.\n\nThe Statistician will think critically about how to optimize methodological rigor given our clients’ time, operational, political and budget constraints.\n\nThe ideal candidate should love having many different types of problems thrown at them, be able to quickly digest and understand the program and evidence objectives, and provide advice and guidance on how best to proceed.\n\nThe Statistician will be an important member of IDinsight’s Research Evaluation and Data (RED) Team. The RED Team is responsible for ensuring that the services we provide to clients are statistically and methodologically sound.\n\nIn collaboration with the RED Team lead and personnel, the Researcher’s role will include, the following activities :\n\nDesigning and implementing representative sample surveys and other related activities for IDinsight clients in collaboration with project teams .\n\nThe Statistician will play a key role along with our client teams in designing and implementing studies for IDinsight clients, including in-person household surveys, secondary analysis of administrative data sets (like IHDS), strengthening data quality controls , remote surveys, complex estimation techniques (e.\n\ng. multiple frames, hierarchical modelling, etc.), and incorporating recent developments in data science in primary survey design and analysis. ,.\n\nEnsuring technical rigor of project deliverables . The Statistician will support project teams in drafting and refining technical documents, which include research designs, pre-analysis plans, sample size calculations, data collection instruments, technical reports, and other documents.\n\nThe Statistician will also be a crucial resource to the country office where he or she is stationed by providing technical expertise on short-term issues that confront project teams.\n• Contribute to technical innovations : The Statistician will work with project teams and external collaborators to contribute to innovation efforts in sampling design (ex : GIS based, prediction approaches to sampling theory), data quality (ex : machine learning to predict data quality issues), embedded experiments for survey methodology, and analytical techniques (ex : Small area estimation, Bayesian modelling and inference), and other related topics.\n• Working with culturally and geographically diverse project teams . The Statistician will work with project teams that can be spread across the globe, from different nationalities and cultures.\n• Supporting the technical professional development of staff . The Statistician will prepare and lead training sessions on technical topics (such as sampling design, statistical inference) on a regular basis.\n\nHe or she will also provide individualised support to staff on their technical professional development.\n• Publishing IDinsight studies in academic and policy journals . The Statistician will have the opportunity to co-author publications in academic and policy journals to showcase results from IDinsight studies, based on IDinsight’s client needs and the Statistician’s interest.\n• Develop new projects and services . The Statistician will have the opportunity to develop new projects and client relationships in accordance with IDinsight’s values of client-focused and decision-focused research.\n\nThe Statistician will be expected to fulfill these responsibilities and others with professionalism and on strict deadlines.\n\nHe or she will also be expected to propose, design and implement new initiatives for supporting project teams and increasing the technical rigor of IDinsight’s work.\n\nQualifications\n• Deeply passionate about social, economic, and environmental policies and programs, and social impact\n• Advanced degree in statistics, demographics, population studies, survey methodology, economics, econometrics, political science, public policy, public health, sociology, anthropology or other applied fields.\n• Outstanding quantitative and critical thinking skills\n• Self-starter who will thrive in a start-up setting by taking ownership and initiative\n• Intellectual curiosity and sense of humor\n• Significant experience with either Stata or R required. Experience with additional programming languages a plus\n• Prior work authorization in one of the position locations\n• Deep contextual knowledge and experience in the regions where IDinsight works\n• Candidates interested in the Senegal or Rabat office should ideally be fluent in French.\n\nProfessional development\n\nProfessional development for Researchers is essential for IDinsight’s long-term impact. With support from IDinsight leadership, Researchers maintain self-directed professional development plans and are given \"stretch\" opportunities designed to strengthen their professional skills.\n\nReal-time feedback and structured reviews are regularly provided to maximise each Researcher’s expertise. IDinsight’s entrepreneurial culture allows roles and career progression to be tailored to individual strengths, interests, and goals.\n\nResearchers have the opportunity to increase responsibilities, and high performers will have the opportunity to move up in the organisation along technical, managerial, or client-facing paths.\n\nOpportunities to protect a small portion of time for the candidate to work on their own research agenda may be possible.\n\nNuts & bolts\n\nLocation\n\nThis position should be based in one of IDinsight’s offices (Dakar, Senegal; Delhi, India; Lusaka, Zambia; Manila, Philippines;\n\nNairobi, Kenya; or Rabat, Morocco) or with one of IDinsight’s satellite teams (Jaipur, India; Jakarta, Indonesia or Lilongwe, Malawi).\n\nPreference will be given to those with pre-existing work authorization in these countries; however, IDInsight will seek work permits where possible for exceptional candidates.\n\nStart date\n\nThe start date of this position is rolling, with preference for candidates that can start immediately. We expect a two-year minimum commitment, with regular professional development conversations and potential for a long-term career at IDinsight.\n\nWork authorization\n\nIDinsight is able to sponsor employment visas for all nationalities in these locations; however, we will prioritise candidates who do not require IDinsight to sponsor work authorization in the aforementioned countries.\n\nAll candidates who are not currently located in our country offices listed above will be expected to relocate to their office locations at the onset of their employment.\n\nCompensation\n\nCompensation and benefits are commensurate with the qualifications and experiences IDinsight is hiring for, and competitive within the global development sector.\n\nWe are especially proud of the people-focused benefits we offer including comprehensive international health insurance, including mental health coverage;\n\npaid vacation, sick, and parental leave; relocation benefits; a travel stipend; technology and work from home stipends; a professional development budget; and more.\n\nPlease note, as a non-profit, we are unable to provide compensation similar to leading private sector organisations.\n\nHow to apply\n\nPlease click the \"Apply for this job online\" button at the top right. . The application asks various questions in order for us to get to know you, and requires a CV and cover letter .\n\nPlease ensure that your CV includes relevant professional and personal experience as well as details on academic qualifications.\n\nCVs can range from one to two pages. Please note, headshot photographs, parental details, birth dates, marital status and other personal information not relevant to the application do not need to be included in your CV.\n\nAdditionally, we strongly encourage you to use your cover letter to highlight why you want to work for IDinsight specifically, and what has prepared you to succeed in the role you’re applying for.\n\nA customized cover letter is an important part of IDinsight’s recruiting process as it allows us to understand your motivations for the position, relevant skills, and clarity of writing.\n\nIDinsight’s commitment to reducing power asymmetries\n\nIDinsight is committed to . Our commitment to diversity, equity, and inclusion reflects our understanding of the need for the sector to abandon unhealthy practices of the past.\n\nWe wish to be part of a new generation of international NGOs who are honest about this history and transparent about our role in the present.\n\nOur commitment is also aligned with the impact of our work.\n\nWe seek a workforce that is inclusive of a variety of perspectives that will help us refine and improve our methods and relationships, and strengthen the services we provide our clients and their communities or constituencies.\n\nThe following commitments represent our vision for the IDinsight team :\n• IDinsight will have greater representation from the populations with whom we work and clients we serve .\n• IDinsight will have greater representation from the countries in which we work .\n• Across all countries in which we recruit, we will seek greater representation from historically excluded communities .\n• IDinsight will foster an inclusive work culture that empowers a diverse team to do their best work.\n\nIDinsight is an equal opportunity employer and strives to create a diverse and supportive workplace"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?hl=en&q=IDinsight&sa=X&ved=0ahUKEwjevJKGtuj-AhXBGFkFHXTwAV4QmJACCLkL",
+          "text": "See web results for IDinsight"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5p8Okln0gcHOxAWKcq9HkX-LkFJTPx2DcETRCjM&s",
+      "extensions": [
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTdGF0aXN0aWNpYW4gLSBSZXNlYXJjaCwgRXZhbHVhdGlvbiwgYW5kIERhdGEgKFJFRCkgVGVhbSBhbmQgRGF0YSBvbiBEZW1hbmQgVGVhbSIsImh0aWRvY2lkIjoiY2VxQThhMU8zVFFBQUFBQUFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXJjQ0N2Y0JRVVZ6TjJwT1UzRlBVWE4yZFVWV1lsQnRPR3RqVFdGWVNsTXhNVTFhUkRaU1NGaEJVRXRzZEc0d1dtRkVWR1ZyWjIxdllYQkNOR3BOWWtOTlFXMWFZMk01WTFkcVZuQnlVMVl6TFZSS2EzSjZaSFV4ZFdsSE5YSkdSakZhUVU1a2JtTk9UM2x1U3pWQ01qRmpWVmt3WTNwM2FqUkRiMXBOY1d0NWFHcG5jMjkyZUUxclZuWlpURTF5Ym5ZNFFqZHFiVUZCT0hGS2FEUTVjVU5LYTBOR1luaGxUV0kxVVZONE1XRlZhbFpvTUVNelgxaHNVVjk2VGxGSFkwWjNRVlpvYVdWTFpDMW9NSFp0WDFOWFlVdHlTakJpYTJkUGJIUnpkWHBFUm1sUlZuSjFVRmxFZDBsVVUwRTVTSEJpU1hoNVZEYzJOREl5VVJJWFYwWldZVnBPTm5kSGMwZDROVTV2VURsUFEwZzRRVlVhSWtGUExUQnliRFp4VG5wb01GSmFTM0pGTm5WWFRGSnBSRVZyU2tsNVJUbFJZbmMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBUYWxlbnQuY29tIiwibGluayI6Imh0dHBzOi8vc24udGFsZW50LmNvbS92aWV3P2lkPWIwNjQzYjA0YTBiNFx1MDAyNnV0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    }
+  ],
+  "chips": [
+    {
+      "type": "Title",
+      "param": "job_family_1",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Data scientist",
+          "value": "data scientist"
+        },
+        {
+          "text": "Statistician",
+          "value": "statistician"
+        }
+      ]
+    },
+    {
+      "type": "Location",
+      "param": "city",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Dakar",
+          "value": "cbvFs_VywQ4fsl0t2Rd8sQ=="
+        },
+        {
+          "text": "Saint Louis",
+          "value": "BegeFFVWlQ5kfmrzEh0d6Q=="
+        }
+      ]
+    },
+    {
+      "type": "Date posted",
+      "param": "date_posted",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Past day",
+          "value": "today"
+        },
+        {
+          "text": "Past 3 days",
+          "value": "3days"
+        },
+        {
+          "text": "Past week",
+          "value": "week"
+        },
+        {
+          "text": "Past month",
+          "value": "month"
+        }
+      ]
+    },
+    {
+      "type": "Requirements",
+      "param": "requirements",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "No degree",
+          "value": "no_degree"
+        },
+        {
+          "text": "No experience",
+          "value": "no_experience"
+        },
+        {
+          "text": "Under 3 years of experience",
+          "value": "years3under"
+        },
+        {
+          "text": "3+ years of experience",
+          "value": "years3plus"
+        }
+      ]
+    },
+    {
+      "type": "Language",
+      "param": "language",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "English Results",
+          "value": "en"
+        },
+        {
+          "text": "French Results",
+          "value": "fr"
+        }
+      ]
+    },
+    {
+      "type": "Type",
+      "param": "employment_type",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Full-time",
+          "value": "FULLTIME"
+        },
+        {
+          "text": "Contractor",
+          "value": "CONTRACTOR"
+        },
+        {
+          "text": "Internship",
+          "value": "INTERN"
+        },
+        {
+          "text": "Part-time",
+          "value": "PARTTIME"
+        }
+      ]
+    },
+    {
+      "type": "Employer",
+      "param": "organization_mid",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "TESTLIO",
+          "value": "/g/11c73vb7f7"
+        },
+        {
+          "text": "FREE Sénégal",
+          "value": "/g/11sn0wflr0"
+        }
+      ]
+    }
+  ]
+}

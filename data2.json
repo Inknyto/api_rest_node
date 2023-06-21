@@ -1,0 +1,379 @@
+{
+  "search_metadata": {
+    "id": "645a5752c7ad4155f14039d9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/31b00504535c8eea/645a5752c7ad4155f14039d9.json",
+    "created_at": "2023-05-09 14:23:14 UTC",
+    "processed_at": "2023-05-09 14:23:14 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=data+science+senegal&ibp=htl;jobs&hl=fr",
+    "raw_html_file": "https://serpapi.com/searches/31b00504535c8eea/645a5752c7ad4155f14039d9.html",
+    "total_time_taken": 1.7
+  },
+  "search_parameters": {
+    "q": "data science senegal",
+    "engine": "google_jobs",
+    "google_domain": "google.com",
+    "hl": "fr"
+  },
+  "jobs_results": [
+    {
+      "title": "DATA SCIENTIST INTERN",
+      "company_name": "false",
+      "location": "  Dakar, Sénégal   ",
+      "via": "via Novojob.com",
+      "description": "About Yassir\n\nYassir is the leading super App for on demand, ride-hailing, last-mile delivery, payment services and more, set to change the way daily services are provided. It currently operates in 45 cities across multiple countries. It has raised $150 million in Series B funding, five times what it raised in its previous priced round last November with world class investors such as BOND and Y Combinator, which is the precursor of the likes of Airbnb, Stripe, Dropbox, Doordash, among others.\n\nWe’re not just about serving people - we’re about creating a marketplace to bring people what they need while infusing social values.\n\nLE POSTE\n\nNous recherchons un.e Stagiaire en Data Scientist Junior pour rejoindre notre bureau à Dakar. Rattaché.e au pôle Marketing, votre mission sera la suivante :\n\n- Création de Dashboards marketing & Product pour faciliter le suivi des KPI macro par les équipes ;\n- Création, analyses & suivi de Dashboards autour de l'acquisition et la rétention clients ;\n... Extraction régulière de segments clients pour piloter nos animations commerciales ;\n- Analyses ponctuelles approfondies permettant de développer nos ventes ;\n- Participation active aux études & sondages prospects & clients ;\n- Veille & études de marché sur notre secteur d'activité.\n\nVous avez envie de rejoindre une équipe jeune et dynamique ? Alors postulez maintenant et rejoignez-nous",
+      "job_highlights": [
+        {
+          "items": [
+            "About Yassir\n\nYassir is the leading super App for on demand, ride-hailing, last-mile delivery, payment services and more, set to change the way daily services are provided. It currently operates in 45 cities across multiple countries. It has raised $150 million in Series B funding, five times what it raised in its previous priced round last November with world class investors such as BOND and Y Combinator, which is the precursor of the likes of Airbnb, Stripe, Dropbox, Doordash, among others.\n\nWe’re not just about serving people - we’re about creating a marketplace to bring people what they need while infusing social values.\n\nLE POSTE\n\nNous recherchons un.e Stagiaire en Data Scientist Junior pour rejoindre notre bureau à Dakar. Rattaché.e au pôle Marketing, votre mission sera la suivante :\n\n- Création de Dashboards marketing & Product pour faciliter le suivi des KPI macro par les équipes ;\n- Création, analyses & suivi de Dashboards autour de l'acquisition et la rétention clients ;\n... Extraction régulière de segments clients pour piloter nos animations commerciales ;\n- Analyses ponctuelles approfondies permettant de développer nos ventes ;\n- Participation active aux études & sondages prospects & clients ;\n- Veille & études de marché sur notre secteur d'activité.\n\nVous avez envie de rejoindre une équipe jeune et dynamique ? Alors postulez maintenant et rejoignez-nous"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?hl=fr&q=false&sa=X&ved=0ahUKEwij8-33t-j-AhVhFVkFHVtlBeYQmJACCOwG",
+          "text": "Voir les résultats Web pour false"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOyxikFM9U1GQiTDzJXqlAO91gGxO0QmHesaBJJ0R8Q_QwkYzM7_zqbOo&s",
+      "extensions": [
+        "il y a 30 jours",
+        "À plein temps"
+      ],
+      "detected_extensions": {
+        "posted_at": "il y a 30 jours",
+        "schedule_type": "À plein temps"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJEQVRBIFNDSUVOVElTVCBJTlRFUk4iLCJodGlkb2NpZCI6IkthSUZFNnJwekU4QUFBQUFBQUFBQUE9PSIsImhsIjoiZnIiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiLm5GZzJlYntmb250LXdlaWdodDo1MDB9LkJpNkRkY3tmb250LXdlaWdodDo1MDB9UG9zdHVsZXIgc3VyIE5vdm9qb2IuY29tIiwibGluayI6Imh0dHBzOi8vd3d3Lm5vdm9qb2IuY29tL3NlbmVnYWwvb2ZmcmVzLWQtZW1wbG9pL29mZnJlLWQtZW1wbG9pL3NlbmVnYWwvZGFrYXIvMTI5OTA2LWRhdGEtc2NpZW50aXN0LWludGVybj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Senior Data Scientist",
+      "company_name": "Recruiting from Scratch",
+      "location": "  Saint-Louis, Sénégal   ",
+      "via": "via LinkedIn Senegal",
+      "description": "Who is Recruiting from Scratch:\n\nRecruiting from Scratch is a premier talent firm that focuses on placing the best product managers, software, and hardware talent at innovative companies. Our team is 100% remote and we work with teams across the United States to help them hire. We work with companies funded by the best investors including Sequoia Capital, Lightspeed Ventures, Tiger Global Management, A16Z, Accel, DFJ, and more.\n\nAbout The Role\n\nOur platform involves ingesting and modeling hundreds of thousands of high-resolution timeseries, updated at 15-minute intervals.\n\nWe're looking for candidates who have experience building high-velocity machine learning systems from scratch.\n• Build advanced timeseries forecasting models at scale. Our customers depend on us to reliably forecast energy demand, both short term and long term, at micro and macro levels.\n• We use a combination of classical timeseries techniques as well as modern ML. We're not big on deep learning, but we're open to... the possibility.\n• Energy demand and generation both depend on climate and weather, so be prepared to learn lots about meteorology!\n• We are primarily Python based, but it's early days, so the right candidate can have a big impact on our tools and infrastructure.\n\nOur engineering team is still quite small, so the right candidate can have a big impact on our tools and infrastructure. We are strong supporters of open source and we encourage our employees to publish and give talks about the work they do with us.\n\nPerks\n\nWhile we are serious about our company’s culture, we aren’t going to force “culture” to prove that we are cool and fun. It’s a company filled with smart, genuinely nice individuals who are passionate about data science, energy and working together to build a product that can have a lasting impact on our planet.\n\nEven though we are a remote company with employees spread across the globe, we still believe human interaction is a good thing. All new employees will fly out to meet their manager within a month of being hired. We will also have an all-company event at least once a year so people can get to know each other in a more fun and social way.\n• Competitive salary\n• Health insurance\n• Free vision and dental insurance\n• Monthly gym membership stipend\n• Pre-tax commuter benefits\n• 401k\n• Stock options\n• Flexible work hours\n• Remote\n• Company events\n\nSalary Range: $120,000-$160,000 base",
+      "job_highlights": [
+        {
+          "items": [
+            "Who is Recruiting from Scratch:\n\nRecruiting from Scratch is a premier talent firm that focuses on placing the best product managers, software, and hardware talent at innovative companies. Our team is 100% remote and we work with teams across the United States to help them hire. We work with companies funded by the best investors including Sequoia Capital, Lightspeed Ventures, Tiger Global Management, A16Z, Accel, DFJ, and more.\n\nAbout The Role\n\nOur platform involves ingesting and modeling hundreds of thousands of high-resolution timeseries, updated at 15-minute intervals.\n\nWe're looking for candidates who have experience building high-velocity machine learning systems from scratch.\n• Build advanced timeseries forecasting models at scale. Our customers depend on us to reliably forecast energy demand, both short term and long term, at micro and macro levels.\n• We use a combination of classical timeseries techniques as well as modern ML. We're not big on deep learning, but we're open to... the possibility.\n• Energy demand and generation both depend on climate and weather, so be prepared to learn lots about meteorology!\n• We are primarily Python based, but it's early days, so the right candidate can have a big impact on our tools and infrastructure.\n\nOur engineering team is still quite small, so the right candidate can have a big impact on our tools and infrastructure. We are strong supporters of open source and we encourage our employees to publish and give talks about the work they do with us.\n\nPerks\n\nWhile we are serious about our company’s culture, we aren’t going to force “culture” to prove that we are cool and fun. It’s a company filled with smart, genuinely nice individuals who are passionate about data science, energy and working together to build a product that can have a lasting impact on our planet.\n\nEven though we are a remote company with employees spread across the globe, we still believe human interaction is a good thing. All new employees will fly out to meet their manager within a month of being hired. We will also have an all-company event at least once a year so people can get to know each other in a more fun and social way.\n• Competitive salary\n• Health insurance\n• Free vision and dental insurance\n• Monthly gym membership stipend\n• Pre-tax commuter benefits\n• 401k\n• Stock options\n• Flexible work hours\n• Remote\n• Company events\n\nSalary Range: $120,000-$160,000 base"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?hl=fr&q=Recruiting+from+Scratch&sa=X&ved=0ahUKEwij8-33t-j-AhVhFVkFHVtlBeYQmJACCJUH",
+          "text": "Voir les résultats Web pour Recruiting from Scratch"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfRxZ8pRuZwPdzMvA-f84DAa-TBCFPeFZgAgbywRg&s",
+      "extensions": [
+        "À plein temps"
+      ],
+      "detected_extensions": {
+        "schedule_type": "À plein temps"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBTY2llbnRpc3QiLCJodGlkb2NpZCI6ImUxTk1PNWR0ZHM4QUFBQUFBQUFBQUE9PSIsImhsIjoiZnIiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiUG9zdHVsZXIgc3VyIExpbmtlZEluIFNlbmVnYWwiLCJsaW5rIjoiaHR0cHM6Ly9zbi5saW5rZWRpbi5jb20vam9icy92aWV3L3Nlbmlvci1kYXRhLXNjaWVudGlzdC1hdC1yZWNydWl0aW5nLWZyb20tc2NyYXRjaC0zNDM3NDkyNjc3P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Data Scientist (H/F)",
+      "company_name": "Lengo",
+      "location": "  Dakar, Sénégal   ",
+      "via": "via Wiijob",
+      "description": "Lengo combine des technologies d’intelligence artificielle avancées et une méthode digitale de crowdsourcing auprès de milliers de boutiquiers pour collecter et analyser les données en temps réel.\n\nNos tableaux de bord sont conçus pour les décideurs afin de piloter leur distribution et leur marketing.\n\nMissions:\n• de réaliser et mettre en œuvre le recueil de données\n• d’analyser les données et les restituer en information opérationnelle et stratégique\n• de coordonner avec une merveilleuse équipe\n• d’effectuer, par ailleurs, toutes autres taches confiées par le CEO et CO-F",
+      "job_highlights": [
+        {
+          "items": [
+            "Lengo combine des technologies d’intelligence artificielle avancées et une méthode digitale de crowdsourcing auprès de milliers de boutiquiers pour collecter et analyser les données en temps réel.\n\nNos tableaux de bord sont conçus pour les décideurs afin de piloter leur distribution et leur marketing.\n\nMissions:\n• de réaliser et mettre en œuvre le recueil de données\n• d’analyser les données et les restituer en information opérationnelle et stratégique\n• de coordonner avec une merveilleuse équipe\n• d’effectuer, par ailleurs, toutes autres taches confiées par le CEO et CO-F"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?hl=fr&q=Lengo&sa=X&ved=0ahUKEwij8-33t-j-AhVhFVkFHVtlBeYQmJACCLsH",
+          "text": "Voir les résultats Web pour Lengo"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdCFdbykNtksdXw78CZNREVekC3ZVUCQBWtOghNQo&s",
+      "extensions": [
+        "Prestataire"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Prestataire"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCAoSC9GKSIsImh0aWRvY2lkIjoibU5VUkltMUJuV1FBQUFBQUFBQUFBQT09IiwiaGwiOiJmciIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJQb3N0dWxlciBzdXIgV2lpam9iIiwibGluayI6Imh0dHBzOi8vd2lpam9iLmNvbS9vZmZyZS1lbXBsb2kvZGF0YS1zY2llbnRpc3QtaC1mLz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Data Analyst Afrique & Asie H/F",
+      "company_name": "Canal Plus",
+      "location": "  Région de Dakar, Sénégal   ",
+      "via": "via Wiijob",
+      "description": "Missions\n\nNous cherchons notre futur data analyst confirmé pour les périmètres Afrique et Asie et qui aura la charge de :\n• Développer/maintenir des outils de reporting pertinents et fiables pour suivre l’activité des différentes BU et mener les analyses ad-hoc permettant d’améliorer la connaissance client\n• Contribuer au projet #DataPourTous visant à doter l’ensemble des Directions Générales et opérationnelles de CANAL+INTERNATIONAL d’un accès en libre-service aux KPIs business et analyses comportementales (via l’outil Microsoft Power BI)\n• Améliorer les outils de forecasting sur lesquels les équipes business s’appuient pour prendre leurs décisions\n• Mesurer la performance des actions des directions commerciales, marketing et relation clients sur la fidélisation et la valeur des abonnés\n• Présenter les résultats d’analyses et être force de recommandation/proposition auprès des responsables métier de CANAL+INTERNATIONAL.\n• Elaborer des segmentations & scorings clients basés sur... l’exhaustivité des données abonnés disponibles (CRM, financières, usages) afin de mieux détecter les populations à risque ou appétentes à certaines offres/produits, et d’affiner les stratégies de ciblage dans le cadre des campagnes marketing/relation client",
+      "job_highlights": [
+        {
+          "items": [
+            "Missions\n\nNous cherchons notre futur data analyst confirmé pour les périmètres Afrique et Asie et qui aura la charge de :\n• Développer/maintenir des outils de reporting pertinents et fiables pour suivre l’activité des différentes BU et mener les analyses ad-hoc permettant d’améliorer la connaissance client\n• Contribuer au projet #DataPourTous visant à doter l’ensemble des Directions Générales et opérationnelles de CANAL+INTERNATIONAL d’un accès en libre-service aux KPIs business et analyses comportementales (via l’outil Microsoft Power BI)\n• Améliorer les outils de forecasting sur lesquels les équipes business s’appuient pour prendre leurs décisions\n• Mesurer la performance des actions des directions commerciales, marketing et relation clients sur la fidélisation et la valeur des abonnés\n• Présenter les résultats d’analyses et être force de recommandation/proposition auprès des responsables métier de CANAL+INTERNATIONAL.\n• Elaborer des segmentations & scorings clients basés sur... l’exhaustivité des données abonnés disponibles (CRM, financières, usages) afin de mieux détecter les populations à risque ou appétentes à certaines offres/produits, et d’affiner les stratégies de ciblage dans le cadre des campagnes marketing/relation client"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.vivendi.com/",
+          "text": "vivendi.com"
+        },
+        {
+          "link": "https://www.google.com/search?hl=fr&q=Canal+Plus&sa=X&ved=0ahUKEwij8-33t-j-AhVhFVkFHVtlBeYQmJACCOYH",
+          "text": "Voir les résultats Web pour Canal Plus"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcAO8v2w-fSZ582GwvUGVISfhEcf1g1advJWzTMT8&s",
+      "extensions": [
+        "il y a 27 jours",
+        "À plein temps"
+      ],
+      "detected_extensions": {
+        "posted_at": "il y a 27 jours",
+        "schedule_type": "À plein temps"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgQWZyaXF1ZSBcdTAwMjYgQXNpZSBIL0YiLCJodGlkb2NpZCI6IkFMU19MNTVzVVJRQUFBQUFBQUFBQUE9PSIsImhsIjoiZnIiLCJmYyI6IkVzd0JDb3dCUVVWek4ycE9VMWx0Wm5Sak9GUk9NRGRLWWpoWVJ6TnJUMlZwVTNscFdrTkVlbGhNVVhOcmNuQkNTbk5vV0RGMVpFTnpTamRRTm5KeVVWbFZNV1pZV2tsdVRqUmtZbmhSZFVwTk0wRXdNRWxDZG5WNE1GTnJNRGgzVDNFdFNXZEdOMDFRV2tJeGNVVmtlR1ZYU2pKMUxWaHRZV1Z6UlMxRWRtTnhOemhYTTJ3M2FuZGZTMHRHWmpKa01uTVNGMVV4WkdGYVQxQTVSazlIY1RWT2IxQXlPSEZXYzBFMEdpSkJUeTB3Y213M00xTkZVV05qU2xaMk9HRjVXSFE1YUVSNlZtNURkSEZsT0dabiIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiUG9zdHVsZXIgc3VyIFdpaWpvYiIsImxpbmsiOiJodHRwczovL3dpaWpvYi5jb20vb2ZmcmUtZW1wbG9pL2RhdGEtYW5hbHlzdC1hZnJpcXVlLWFzaWUtaC1mLz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Senior DevOps Engineer - Data and ML Infrastructure",
+      "company_name": "TESTLIO",
+      "location": "  Sénégal   ",
+      "via": "via Emploisenegal.com",
+      "description": "As Senior DevOps Engineer, you will be a true partner and a member of Testlio’s engineering teams. You will be mainly focusing on DataOps and MLOps tasks to drive data engineering and data science initiatives that are essential part of our multi-region cloud platform. You will create, improve and support data infrastructure and toolings to achieve smooth operations and collaborations between functions and teams.\nWhy you will love this job?\nMake an impact by creating and driving data oriented solutions that enable data products to internal and external users.\nElevate Testlio’s cloud platform and development with new tools and data infrastructure.\nEmpower users with AI and data solutions to achieve more.\nWork within a small team and become a subject matter expert in your respective domain.\nWhy you will love being a part of Testlio?\nA true sense of belonging: the TestLion Pride is a global community of like-minded people who live Testlio’s six values every day. We’re deliberate about... building our community with virtual events and activities that keep us connected across the globe.\nGrowth through learning: knowledge exchange and learning are central to working at Testlio. You’ll find that motivated, experienced TestLions with diverse backgrounds can always introduce you to new perspectives. With unlimited Udemy access and custom-made courses, you've got the perfect environment for both personal and professional development.\nEnable human possibilities: your work at Testlio has a larger purpose. As a TestLion you will not only help our customers create well-built digital experiences for their users, but also create opportunities for Testlio's freelance network, and support social impact programs like Ignite.\nFreedom to roam: Testlio is a global company that embraces flexibility. You'll have room to work wherever within your region's main time zones. We also want to make sure you can take time off from work to rest. We honor national holidays in your home nation, and provide a generous number of days off, including personal wellness days.\nWhat would your day look like?\n• Implementing and managing scalable cloud system configurations and methodologies in AWS.\n• Work within the DevOps data engineering team, using your expertise to build highly automated provisioning, monitoring, and operational capabilities for data.\n• Support the ongoing growth, design, and expansion of our data platform, including an API layer\n• Help find, provision, and support data observability tooling.\n• Support Data Engineers in coding and integrating data pipelines for automated deployment.\n• Evaluate new tools and approaches to continuously evolve the team’s DataOps practice.\n• Ensure key SLAs are managed across a wide range of producers and consumers.\n• Build and run essential monitoring infrastructure supporting data pipelines.\n• Build and support machine learning initiatives and infrastructure, setups with Sagemaker and/or other (EC, Docker, Kubernetes).\n• Bridge the gaps between Dev-Data-ML Ops and build smooth operations.\n• Ensure our work respects the rights, regulations, and consent preferences of all stakeholders (PHI/PII, HIPAA, CCPA, GDPR, etc.).\n• Create Infrastructure changes via CloudFormation or other similar technologies to practice IaC.\n• Keeping systems secure, highly available and scalable. Resiliency is part of the solution",
+      "job_highlights": [
+        {
+          "items": [
+            "As Senior DevOps Engineer, you will be a true partner and a member of Testlio’s engineering teams. You will be mainly focusing on DataOps and MLOps tasks to drive data engineering and data science initiatives that are essential part of our multi-region cloud platform. You will create, improve and support data infrastructure and toolings to achieve smooth operations and collaborations between functions and teams.\nWhy you will love this job?\nMake an impact by creating and driving data oriented solutions that enable data products to internal and external users.\nElevate Testlio’s cloud platform and development with new tools and data infrastructure.\nEmpower users with AI and data solutions to achieve more.\nWork within a small team and become a subject matter expert in your respective domain.\nWhy you will love being a part of Testlio?\nA true sense of belonging: the TestLion Pride is a global community of like-minded people who live Testlio’s six values every day. We’re deliberate about... building our community with virtual events and activities that keep us connected across the globe.\nGrowth through learning: knowledge exchange and learning are central to working at Testlio. You’ll find that motivated, experienced TestLions with diverse backgrounds can always introduce you to new perspectives. With unlimited Udemy access and custom-made courses, you've got the perfect environment for both personal and professional development.\nEnable human possibilities: your work at Testlio has a larger purpose. As a TestLion you will not only help our customers create well-built digital experiences for their users, but also create opportunities for Testlio's freelance network, and support social impact programs like Ignite.\nFreedom to roam: Testlio is a global company that embraces flexibility. You'll have room to work wherever within your region's main time zones. We also want to make sure you can take time off from work to rest. We honor national holidays in your home nation, and provide a generous number of days off, including personal wellness days.\nWhat would your day look like?\n• Implementing and managing scalable cloud system configurations and methodologies in AWS.\n• Work within the DevOps data engineering team, using your expertise to build highly automated provisioning, monitoring, and operational capabilities for data.\n• Support the ongoing growth, design, and expansion of our data platform, including an API layer\n• Help find, provision, and support data observability tooling.\n• Support Data Engineers in coding and integrating data pipelines for automated deployment.\n• Evaluate new tools and approaches to continuously evolve the team’s DataOps practice.\n• Ensure key SLAs are managed across a wide range of producers and consumers.\n• Build and run essential monitoring infrastructure supporting data pipelines.\n• Build and support machine learning initiatives and infrastructure, setups with Sagemaker and/or other (EC, Docker, Kubernetes).\n• Bridge the gaps between Dev-Data-ML Ops and build smooth operations.\n• Ensure our work respects the rights, regulations, and consent preferences of all stakeholders (PHI/PII, HIPAA, CCPA, GDPR, etc.).\n• Create Infrastructure changes via CloudFormation or other similar technologies to practice IaC.\n• Keeping systems secure, highly available and scalable. Resiliency is part of the solution"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://testlio.com/",
+          "text": "testlio.com"
+        },
+        {
+          "link": "https://www.google.com/search?hl=fr&q=TESTLIO&sa=X&ved=0ahUKEwij8-33t-j-AhVhFVkFHVtlBeYQmJACCJEI",
+          "text": "Voir les résultats Web pour TESTLIO"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Q_Lg4QNhINFDZ4pT3bF8hF4Kvr3eT_XNbMR0tmM&s",
+      "extensions": [
+        "À plein temps"
+      ],
+      "detected_extensions": {
+        "schedule_type": "À plein temps"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGV2T3BzIEVuZ2luZWVyIC0gRGF0YSBhbmQgTUwgSW5mcmFzdHJ1Y3R1cmUiLCJodGlkb2NpZCI6IkQtRkRuNHE5ZXAwQUFBQUFBQUFBQUE9PSIsImhsIjoiZnIiLCJmYyI6IkVzd0JDb3dCUVVWek4ycE9WR0ZqVWxwMGFVZGtNbll6Y0ZCc05VbFZXVXBEZGpoV2FEa3RUVkZxUlhadmJVMXhUM2xFUldSS2N6SjFXbkJUZDBoaVdYVnZiSGhNUmxKRmVsVXdSV2RvUWpWTWJuUmxkMnBpYjJWc1gwNU5aMFo2VkdWUU5VUnpjamRpVlZOYWNUTTRUVVpLT0VFNGFtOTJOVVJhVXpOalZFTnVkMnhVTFd0V1N6WnNNVWhXZVZkdkxXRVNGMVV4WkdGYVQxQTVSazlIY1RWT2IxQXlPSEZXYzBFMEdpSkJUeTB3Y213MFpEVkdhVkZKUmxZdGFUUkljRXAwZVdWMVYxbDZVeTFTZFRoUiIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzIiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiUG9zdHVsZXIgc3VyIEVtcGxvaXNlbmVnYWwuY29tIiwibGluayI6Imh0dHBzOi8vd3d3LmVtcGxvaXNlbmVnYWwuY29tL29mZnJlLWVtcGxvaS1zZW5lZ2FsL3Nlbmlvci1kZXZvcHMtZW5naW5lZXItZGF0YS1tbC1pbmZyYXN0cnVjdHVyZS05NzA0MjY/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Spécialiste datamining & segmentation",
+      "company_name": "FREE Sénégal",
+      "location": "  Dakar, Sénégal   ",
+      "via": "via Wiijob",
+      "description": "Missions\n\nCes principales responsabilités seront de :\n• Travailler avec les parties prenantes de l’équipe commerciale pour identifier les opportunités d’exploitation des données de l’entreprise pour piloter des solutions commerciales.\n• Extraire et analyser les données des bases de données pour optimiser et améliorer le développement de produits, les techniques de marketing et les stratégies commerciales.\n• Développer des modèles de données et des algorithmes customisées à appliquer sur les jeux de données.\n• Utiliser la modélisation prédictive pour augmenter et optimiser les expériences client, la génération de revenus, les ventes ciblées et d’autres résultats commerciaux.\n• Développer le framework d’A/B de l’entreprise et tester la qualité du modèle.\n• Coordonner avec différentes équipes fonctionnelles pour mettre en œuvre des modèles et surveiller les résultats.\n• Développer des processus et des outils pour surveiller et analyser les performances des modèles et l’exactitude des... données",
+      "job_highlights": [
+        {
+          "items": [
+            "Missions\n\nCes principales responsabilités seront de :\n• Travailler avec les parties prenantes de l’équipe commerciale pour identifier les opportunités d’exploitation des données de l’entreprise pour piloter des solutions commerciales.\n• Extraire et analyser les données des bases de données pour optimiser et améliorer le développement de produits, les techniques de marketing et les stratégies commerciales.\n• Développer des modèles de données et des algorithmes customisées à appliquer sur les jeux de données.\n• Utiliser la modélisation prédictive pour augmenter et optimiser les expériences client, la génération de revenus, les ventes ciblées et d’autres résultats commerciaux.\n• Développer le framework d’A/B de l’entreprise et tester la qualité du modèle.\n• Coordonner avec différentes équipes fonctionnelles pour mettre en œuvre des modèles et surveiller les résultats.\n• Développer des processus et des outils pour surveiller et analyser les performances des modèles et l’exactitude des... données"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.free.sn/",
+          "text": "free.sn"
+        },
+        {
+          "link": "https://www.google.com/search?hl=fr&q=FREE+S%C3%A9n%C3%A9gal&sa=X&ved=0ahUKEwij8-33t-j-AhVhFVkFHVtlBeYQmJACCLsI",
+          "text": "Voir les résultats Web pour FREE Sénégal"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQENzbvtEFrOhwutthXIgDAukfa2MZ0K-SmT4si5so&s",
+      "extensions": [
+        "À plein temps"
+      ],
+      "detected_extensions": {
+        "schedule_type": "À plein temps"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTcMOpY2lhbGlzdGUgZGF0YW1pbmluZyBcdTAwMjYgc2VnbWVudGF0aW9uIiwiaHRpZG9jaWQiOiJNemFaSXNEX2hXOEFBQUFBQUFBQUFBPT0iLCJobCI6ImZyIiwiZmMiOiJFdUlCQ3FJQlFVVnpOMnBPVWxOc1JUSmhZMGhrZGpkZlpGcEtXRlZaUldGdE9YWXdaRGxITFZGaVdYcDRSMUUzWkUxWVEzRmFNVzFXV0VjdGNFeE1NMmRUVjJweVF6VjNaamgxVGpRNWJIUTJUbTlSZWtzNFdtRkhibEJUZVhKeU5Fa3pOMkZWY1c5bloxVkNZM0IyV21FME1uWjRORlpNYWpoUlEycDZWRVkzYzNaTmVtTk5NSEZWYTNadldraFFZblpGUm5wc0xUbGxOMnRETlVSbE5saGpXVXd3WW1SUkVoZFZNV1JoV2s5UU9VWlBSM0UxVG05UU1qaHhWbk5CTkJvaVFVOHRNSEpzTjNSNFUwb3hhMkk0UlU5RlRHcDBVamRzZGtoMlgzVkdWa2hYZHciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18zIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IlBvc3R1bGVyIHN1ciBXaWlqb2IiLCJsaW5rIjoiaHR0cHM6Ly93aWlqb2IuY29tL29mZnJlLWVtcGxvaS9zcGVjaWFsaXN0ZS1kYXRhbWluaW5nLXNlZ21lbnRhdGlvbi8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Senior Data Engineer",
+      "company_name": "TESTLIO",
+      "location": "  Sénégal   ",
+      "via": "via Emploisenegal.com",
+      "description": "No matter which apps you use, there’s a good chance that you’ve seen Testlio’s work in action. We test apps for top brands like the NBA, Paramount+, Netflix, Microsoft, SAP, and Amazon, as well as the most popular social networks and innovative growth companies. Our testing management platform, a global network of expert testers, and client services power mobile app and software testing at any scale, in any location, in any language, and on any device. Billions of people have a better digital experience thanks to Testlio.\nWe envision our Platform to be offering insights and deeper data capabilities to practice the data-driven decisions to release software. Data Engineering is instrumental in our quest for insights-driven testing solutions. The Senior Data Engineer role is vital to our team to build DataOps and MLOps capabilities. Driving data architecture and strategy, you will be in the spotlight to drive the next wave of innovations and solutions of Testlio Platform. In Testlio we... conceive data as a key asset for the future of the company, and therefore playing this role implies working together with data scientists, infrastructure engineers and product engineering to help build market leading solutions.\nWhy you will love this job?\n• People – ability to work with passionate people and have fun together.\n• Challenging – work with AWS services like Glue, Redshift, Wrangler, Batch and custom toolings to connect MySQL, MariaDB and CSV or other data sources into new data, new value, new insights.\n• Impact – democratize data access within the company by data governance model, tools and systems, keep data integrity at high quality, drive data strategy.\n• Innovate – help create data models and fuel AI/ML model trainings and operations, to cultivate data-driven operations and experiences for users.\n\nWhy you will love being a part of Testlio?\n• A true sense of belonging: the TestLion Pride is a global community of like-minded people who live Testlio’s six values every day. We’re deliberate about building our community with virtual events and activities that keep us connected across the globe.\n• Growth through learning: knowledge exchange and learning are central to working at Testlio. You’ll find that motivated, experienced TestLions with diverse backgrounds can always introduce you to new perspectives. With unlimited Udemy access and custom-made courses, you've got the perfect environment for both personal and professional development.\n• Enable human possibilities: your work at Testlio has a larger purpose. As a TestLion you will not only help our customers create well-built digital experiences for their users, but also create opportunities for Testlio's freelance network, and support social impact programs like Ignite.\n• Freedom to roam: Testlio is a global company that embraces flexibility. You'll have room to work wherever within your region's main time zones. We also want to make sure you can take time off from work to rest. We honor national holidays in your home nation, and provide a generous number of days off, including personal wellness days.\n\nWhat would your day look like?\n• Design, develop, install, test and maintain data management systems, incl. Testlio’s Data Platform.\n• Build the solution required for optimal extraction, transformation, and loading of data from a wide variety of data sources into data warehouses or other destined data storages.\n• Advise engineering teams to design great data schemas at collection level.\n• Design and support teams to build optimal and right architectures to build data pipelines to surface data to right features, capabilities to end users - empower users with data access.\n• Own, operate and maintain data lakes and warehouses as well as any tools required for data ETL, batching or business intelligence systems. Tools like DBT, Airflow, Glue, Wrangler, Redshift.\n• Support product teams to generate programmatically test and demo data.\n• Install/update data disaster recovery procedures for data systems.\n• Recommend different ways to constantly improve data reliability, integrity and quality.\n• Work with various owners from other departments to analyze their needs for any data reports.\n• Work with the Data Science community to establish harmony with DataOps and MLOps",
+      "job_highlights": [
+        {
+          "items": [
+            "No matter which apps you use, there’s a good chance that you’ve seen Testlio’s work in action. We test apps for top brands like the NBA, Paramount+, Netflix, Microsoft, SAP, and Amazon, as well as the most popular social networks and innovative growth companies. Our testing management platform, a global network of expert testers, and client services power mobile app and software testing at any scale, in any location, in any language, and on any device. Billions of people have a better digital experience thanks to Testlio.\nWe envision our Platform to be offering insights and deeper data capabilities to practice the data-driven decisions to release software. Data Engineering is instrumental in our quest for insights-driven testing solutions. The Senior Data Engineer role is vital to our team to build DataOps and MLOps capabilities. Driving data architecture and strategy, you will be in the spotlight to drive the next wave of innovations and solutions of Testlio Platform. In Testlio we... conceive data as a key asset for the future of the company, and therefore playing this role implies working together with data scientists, infrastructure engineers and product engineering to help build market leading solutions.\nWhy you will love this job?\n• People – ability to work with passionate people and have fun together.\n• Challenging – work with AWS services like Glue, Redshift, Wrangler, Batch and custom toolings to connect MySQL, MariaDB and CSV or other data sources into new data, new value, new insights.\n• Impact – democratize data access within the company by data governance model, tools and systems, keep data integrity at high quality, drive data strategy.\n• Innovate – help create data models and fuel AI/ML model trainings and operations, to cultivate data-driven operations and experiences for users.\n\nWhy you will love being a part of Testlio?\n• A true sense of belonging: the TestLion Pride is a global community of like-minded people who live Testlio’s six values every day. We’re deliberate about building our community with virtual events and activities that keep us connected across the globe.\n• Growth through learning: knowledge exchange and learning are central to working at Testlio. You’ll find that motivated, experienced TestLions with diverse backgrounds can always introduce you to new perspectives. With unlimited Udemy access and custom-made courses, you've got the perfect environment for both personal and professional development.\n• Enable human possibilities: your work at Testlio has a larger purpose. As a TestLion you will not only help our customers create well-built digital experiences for their users, but also create opportunities for Testlio's freelance network, and support social impact programs like Ignite.\n• Freedom to roam: Testlio is a global company that embraces flexibility. You'll have room to work wherever within your region's main time zones. We also want to make sure you can take time off from work to rest. We honor national holidays in your home nation, and provide a generous number of days off, including personal wellness days.\n\nWhat would your day look like?\n• Design, develop, install, test and maintain data management systems, incl. Testlio’s Data Platform.\n• Build the solution required for optimal extraction, transformation, and loading of data from a wide variety of data sources into data warehouses or other destined data storages.\n• Advise engineering teams to design great data schemas at collection level.\n• Design and support teams to build optimal and right architectures to build data pipelines to surface data to right features, capabilities to end users - empower users with data access.\n• Own, operate and maintain data lakes and warehouses as well as any tools required for data ETL, batching or business intelligence systems. Tools like DBT, Airflow, Glue, Wrangler, Redshift.\n• Support product teams to generate programmatically test and demo data.\n• Install/update data disaster recovery procedures for data systems.\n• Recommend different ways to constantly improve data reliability, integrity and quality.\n• Work with various owners from other departments to analyze their needs for any data reports.\n• Work with the Data Science community to establish harmony with DataOps and MLOps"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://testlio.com/",
+          "text": "testlio.com"
+        },
+        {
+          "link": "https://www.google.com/search?hl=fr&q=TESTLIO&sa=X&ved=0ahUKEwij8-33t-j-AhVhFVkFHVtlBeYQmJACCOUI",
+          "text": "Voir les résultats Web pour TESTLIO"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Q_Lg4QNhINFDZ4pT3bF8hF4Kvr3eT_XNbMR0tmM&s",
+      "extensions": [
+        "À plein temps"
+      ],
+      "detected_extensions": {
+        "schedule_type": "À plein temps"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBFbmdpbmVlciIsImh0aWRvY2lkIjoiLVhIbDNCeVA3Y0VBQUFBQUFBQUFBQT09IiwiaGwiOiJmciIsImZjIjoiRXN3QkNvd0JRVVZ6TjJwT1UyeG9UVUZ5TjBWNVowOWpWbnBEUVZocFNWSmlTRXRVZDJJNFpISlZNekI1WVVGM1gzWndhVUZCTWpkZmVYRldOMUV5Y1U4MlpGbHVRWE5rVDFaVk5GTkxNRWRqZUhJeFluQkRhVVZUVkVWQlgzZFRjVVJPVTBzeVpIYzRXRnB1Y21KWFF6aHZaR05qYTJWeVJpMHhUbU5mUmtGM2VtUnRWMDVWYVZwSlVGOUJkRlZ1UW1JU0YxVXhaR0ZhVDFBNVJrOUhjVFZPYjFBeU9IRldjMEUwR2lKQlR5MHdjbXcwY0hseldrZERVbmwzUWxsM00wWlZZMVJvZEU1b2RWbGhRbFZuIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJQb3N0dWxlciBzdXIgRW1wbG9pc2VuZWdhbC5jb20iLCJsaW5rIjoiaHR0cHM6Ly93d3cuZW1wbG9pc2VuZWdhbC5jb20vb2ZmcmUtZW1wbG9pLXNlbmVnYWwvc2VuaW9yLWRhdGEtZW5naW5lZXItOTY5NjM2P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Data Analyst",
+      "company_name": "Winrock International",
+      "location": "  Dakar, Sénégal   ",
+      "via": "via Wiijob",
+      "description": "Responsable du développement de systèmes de collecte de données efficaces et précis qui comprennent des processus efficaces de collecte de données et garantissent la qualité des données. Cela inclut l’analyse, le rapport et la diffusion des données en temps voulu, le renforcement des capacités du personnel technique et de M & E dans ces domaines, et la garantie de la conformité.\n\nMissions\n\nAvec le soutien et les conseils d’AGILE, gère le MIS du programme.\n• Suivre la formation initiale sur l’administration du SIG et l’analyse des données et prendre le contrôle total des systèmes SIG et S & E.\n• Assure la conformité aux normes de qualité des données et maintiens une piste de données entièrement vérifiable pour tous les chiffres des indicateurs de S &E qui sont rapportés.\n• Diriger la conception et l’intégration d’outils et d’applications supplémentaires dans le cadre du SIG du projet, à la demande de la direction et du personnel technique.\n• Gère l’architecture du MIS du projet, la... navigation et les niveaux de permission du personnel du projet, en modifiant le MIS si nécessaire pour s’adapter à l’évolution des besoins et assurer une conformité totale avec les exigences en matière de données telles qu’énoncées dans le plan de S & E.\n• Déterminer les instructions opérationnelles locales et les lignes directrices pour les utilisateurs concernant la saisie, la validation et l’entrée des données dans le MIS.\n• Génère la visualisation et l’analyse des données à l’aide d’applications de veille économique (modélisation, visualisation et cartographie des données) afin de répondre aux exigences en matière de rapports et de suivi en temps réel de la mise en œuvre.\n• Surveiller le personnel chargé de la collecte des données et veiller à ce qu’elles soient saisies en temps voulu dans le SIG.\n• Explorer d’autres connaissances uniques ou novatrices et des applications et technologies de l’information qui amélioreront l’efficacité et l’efficience des opérations du projet et de la gestion de l’information.\n• Faire respecter la politique de saisie des données, d’entrée et de respect des délais par le personnel du projet.\n• Concevoir des formulaires de saisie de données à utiliser par les collègues pour recueillir des informations sur les activités du projet, qui sont entièrement compatibles avec les formulaires électroniques du SIG.\n• S’assure que toutes les données de S & E sont entièrement téléchargées, intégrées et traçables par le biais du MIS, y compris les données de l’enquête de base, l’enregistrement de routine et le suivi des résultats, les enquêtes annuelles sur les résultats et les enquêtes d’impact de fin de projet.\n• Avec le soutien et les conseils d’AGILE, gérer l’analyse des données et la veille économique pour le projet.\n• Construit des requêtes de données et des connexions de données pour maximiser la visibilité, l’accessibilité et l’agrégation des données brutes du projet.\n• Modélise les données pour créer des tableaux de bord visuels dynamiques, y compris des graphiques avec capacité de forage, des cartes, des matrices et des filtres de données.\n• Interprète les visualisations et les analyses de données pour identifier les points forts et les points faibles de la mise en œuvre du projet afin de fournir des recommandations fondées sur les données pour améliorer la mise en œuvre du projet.\n• Réponds aux demandes ad hoc de l’AC, des chefs de projet et des collègues techniques pour générer des analyses personnalisées, des rapports visuels et des cartes.\n• Présente des visualisations de données pour communiquer l’état du projet aux gestionnaires et aux collègues techniques.\n• Fournir des rapports et des analyses visuelles pour les documents de communication du projet, les rapports et les présentations.\n• Responsable du support technique et du dépannage MIS pour le projet\n• Fournis une assistance technique et un dépannage à tous les utilisateurs du MIS au niveau du projet.\n• Renvoyer les problèmes techniques MIS plus complexes à la communauté de pratique AGILE MERL et à AGILE, en collaborant à la mise en œuvre de solutions.\n• Travaille avec le spécialiste informatique du projet, le cas échéant, pour s’assurer que les utilisateurs du MIS disposent d’une accessibilité maximale, y compris une maintenance à jour des ordinateurs portables, tous les logiciels nécessaires et une connectivité Internet suffisante.\n• Conseiller les responsables informatiques et les chefs de projet sur les autres moyens d’augmenter la connectivité des utilisateurs du MIS dans les zones où elle est moins fiable.\n• Fournir un retour d’information à AGILE sur les meilleures pratiques et les recommandations pour l’amélioration de la fonctionnalité du MIS et des procédures de gestion des données.\n• Diriger le travail du personnel de soutien à la saisie des données du groupe assigné.\n• Répartir et coordonner le flux de travail du personnel chargé de la saisie des données.\n• Former et guider le personnel chargé de la saisie des données.\n• Conseiller les gestionnaires de projet sur les besoins et le calendrier d’un soutien supplémentaire à la saisie de données.\n• Vérifier l’exactitude et l’actualité des données saisies, et s’assurer que les données sont fournies et analysées à temps pour respecter le calendrier des rapports.\n• Faire des suggestions pour améliorer les opérations de données et mettre en œuvre les changements approuvés.\n• Assumer toutes les autres tâches, y compris la sauvegarde et la récupération du système MIS (si nécessaire). Et les projets qui peuvent être assignés de temps à autre",
+      "job_highlights": [
+        {
+          "items": [
+            "Responsable du développement de systèmes de collecte de données efficaces et précis qui comprennent des processus efficaces de collecte de données et garantissent la qualité des données. Cela inclut l’analyse, le rapport et la diffusion des données en temps voulu, le renforcement des capacités du personnel technique et de M & E dans ces domaines, et la garantie de la conformité.\n\nMissions\n\nAvec le soutien et les conseils d’AGILE, gère le MIS du programme.\n• Suivre la formation initiale sur l’administration du SIG et l’analyse des données et prendre le contrôle total des systèmes SIG et S & E.\n• Assure la conformité aux normes de qualité des données et maintiens une piste de données entièrement vérifiable pour tous les chiffres des indicateurs de S &E qui sont rapportés.\n• Diriger la conception et l’intégration d’outils et d’applications supplémentaires dans le cadre du SIG du projet, à la demande de la direction et du personnel technique.\n• Gère l’architecture du MIS du projet, la... navigation et les niveaux de permission du personnel du projet, en modifiant le MIS si nécessaire pour s’adapter à l’évolution des besoins et assurer une conformité totale avec les exigences en matière de données telles qu’énoncées dans le plan de S & E.\n• Déterminer les instructions opérationnelles locales et les lignes directrices pour les utilisateurs concernant la saisie, la validation et l’entrée des données dans le MIS.\n• Génère la visualisation et l’analyse des données à l’aide d’applications de veille économique (modélisation, visualisation et cartographie des données) afin de répondre aux exigences en matière de rapports et de suivi en temps réel de la mise en œuvre.\n• Surveiller le personnel chargé de la collecte des données et veiller à ce qu’elles soient saisies en temps voulu dans le SIG.\n• Explorer d’autres connaissances uniques ou novatrices et des applications et technologies de l’information qui amélioreront l’efficacité et l’efficience des opérations du projet et de la gestion de l’information.\n• Faire respecter la politique de saisie des données, d’entrée et de respect des délais par le personnel du projet.\n• Concevoir des formulaires de saisie de données à utiliser par les collègues pour recueillir des informations sur les activités du projet, qui sont entièrement compatibles avec les formulaires électroniques du SIG.\n• S’assure que toutes les données de S & E sont entièrement téléchargées, intégrées et traçables par le biais du MIS, y compris les données de l’enquête de base, l’enregistrement de routine et le suivi des résultats, les enquêtes annuelles sur les résultats et les enquêtes d’impact de fin de projet.\n• Avec le soutien et les conseils d’AGILE, gérer l’analyse des données et la veille économique pour le projet.\n• Construit des requêtes de données et des connexions de données pour maximiser la visibilité, l’accessibilité et l’agrégation des données brutes du projet.\n• Modélise les données pour créer des tableaux de bord visuels dynamiques, y compris des graphiques avec capacité de forage, des cartes, des matrices et des filtres de données.\n• Interprète les visualisations et les analyses de données pour identifier les points forts et les points faibles de la mise en œuvre du projet afin de fournir des recommandations fondées sur les données pour améliorer la mise en œuvre du projet.\n• Réponds aux demandes ad hoc de l’AC, des chefs de projet et des collègues techniques pour générer des analyses personnalisées, des rapports visuels et des cartes.\n• Présente des visualisations de données pour communiquer l’état du projet aux gestionnaires et aux collègues techniques.\n• Fournir des rapports et des analyses visuelles pour les documents de communication du projet, les rapports et les présentations.\n• Responsable du support technique et du dépannage MIS pour le projet\n• Fournis une assistance technique et un dépannage à tous les utilisateurs du MIS au niveau du projet.\n• Renvoyer les problèmes techniques MIS plus complexes à la communauté de pratique AGILE MERL et à AGILE, en collaborant à la mise en œuvre de solutions.\n• Travaille avec le spécialiste informatique du projet, le cas échéant, pour s’assurer que les utilisateurs du MIS disposent d’une accessibilité maximale, y compris une maintenance à jour des ordinateurs portables, tous les logiciels nécessaires et une connectivité Internet suffisante.\n• Conseiller les responsables informatiques et les chefs de projet sur les autres moyens d’augmenter la connectivité des utilisateurs du MIS dans les zones où elle est moins fiable.\n• Fournir un retour d’information à AGILE sur les meilleures pratiques et les recommandations pour l’amélioration de la fonctionnalité du MIS et des procédures de gestion des données.\n• Diriger le travail du personnel de soutien à la saisie des données du groupe assigné.\n• Répartir et coordonner le flux de travail du personnel chargé de la saisie des données.\n• Former et guider le personnel chargé de la saisie des données.\n• Conseiller les gestionnaires de projet sur les besoins et le calendrier d’un soutien supplémentaire à la saisie de données.\n• Vérifier l’exactitude et l’actualité des données saisies, et s’assurer que les données sont fournies et analysées à temps pour respecter le calendrier des rapports.\n• Faire des suggestions pour améliorer les opérations de données et mettre en œuvre les changements approuvés.\n• Assumer toutes les autres tâches, y compris la sauvegarde et la récupération du système MIS (si nécessaire). Et les projets qui peuvent être assignés de temps à autre"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.winrock.org/",
+          "text": "winrock.org"
+        },
+        {
+          "link": "https://www.google.com/search?hl=fr&q=Winrock+International&sa=X&ved=0ahUKEwij8-33t-j-AhVhFVkFHVtlBeYQmJACCI8J",
+          "text": "Voir les résultats Web pour Winrock International"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG1hNlOUrVN_4sxKphAsJo0pzuBMOY6h9R1-s1f7I&s",
+      "extensions": [
+        "À plein temps"
+      ],
+      "detected_extensions": {
+        "schedule_type": "À plein temps"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6IkJFS0lGNHkwb1FVQUFBQUFBQUFBQUE9PSIsImhsIjoiZnIiLCJmYyI6IkV2Y0JDcmNCUVVWek4ycE9VVGxqTmxwNVRFTlVkRU5GWDJWNmQyUTFNVE5IZDJ0YWFsRjFlbkF6YjJ0RmMycDNXa05hYVVoMGNXdGFlRVpZVG5rdFZYVmZkRFJtUzJOT05YTmFNMWxQU0d0ak1URm1ZMHR1WDNGWVpHMDBiMXBrUVZJeFpsZ3RWVzFuYkdJMU5WOHpZbkZUUWs5RWQyUXlRVFZsUTB3MlgxRlVkbEZKTFdKQ2EzaEdVbDkwV2taWGIyMXVhVzVYU205dVZHbHdNVE5XVERsNWN6ZENlbWhFY3pONmVqbDZNMnhXVW5GUVUwaFdhekpaV1dSQkVoZFZNV1JoV2s5UU9VWlBSM0UxVG05UU1qaHhWbk5CTkJvaVFVOHRNSEpzTlZndFJGRk1TemRFTjAwME9HTlRZWEExZVRoU09ITTBaVk41UVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY181IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IlBvc3R1bGVyIHN1ciBXaWlqb2IiLCJsaW5rIjoiaHR0cHM6Ly93aWlqb2IuY29tL29mZnJlLWVtcGxvaS9kYXRhLWFuYWx5c3QtMy8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    }
+  ],
+  "chips": [
+    {
+      "type": "Lieu",
+      "param": "city",
+      "options": [
+        {
+          "text": "Tous"
+        },
+        {
+          "text": "Dakar",
+          "value": "cbvFs_VywQ4fsl0t2Rd8sQ=="
+        },
+        {
+          "text": "Saint-Louis",
+          "value": "BegeFFVWlQ5kfmrzEh0d6Q=="
+        }
+      ]
+    },
+    {
+      "type": "Date de publication",
+      "param": "date_posted",
+      "options": [
+        {
+          "text": "Tous"
+        },
+        {
+          "text": "Depuis hier",
+          "value": "today"
+        },
+        {
+          "text": "Depuis 3 jours",
+          "value": "3days"
+        },
+        {
+          "text": "Depuis 1 semaine",
+          "value": "week"
+        },
+        {
+          "text": "Depuis 1 mois",
+          "value": "month"
+        }
+      ]
+    },
+    {
+      "type": "Langue",
+      "param": "language",
+      "options": [
+        {
+          "text": "Tous"
+        },
+        {
+          "text": "Résultats en français",
+          "value": "fr"
+        },
+        {
+          "text": "Résultats en anglais",
+          "value": "en"
+        }
+      ]
+    },
+    {
+      "type": "Type",
+      "param": "employment_type",
+      "options": [
+        {
+          "text": "Tous"
+        },
+        {
+          "text": "À plein temps",
+          "value": "FULLTIME"
+        },
+        {
+          "text": "Prestataire",
+          "value": "CONTRACTOR"
+        },
+        {
+          "text": "Stage",
+          "value": "INTERN"
+        },
+        {
+          "text": "À temps partiel",
+          "value": "PARTTIME"
+        }
+      ]
+    },
+    {
+      "type": "Employeur",
+      "param": "organization_mid",
+      "options": [
+        {
+          "text": "Tous"
+        },
+        {
+          "text": "TESTLIO",
+          "value": "/g/11c73vb7f7"
+        },
+        {
+          "text": "Canal Plus",
+          "value": "/m/02slt7"
+        },
+        {
+          "text": "FREE Sénégal",
+          "value": "/g/11sn0wflr0"
+        },
+        {
+          "text": "Winrock International",
+          "value": "/g/11fy251yqb"
+        }
+      ]
+    }
+  ]
+}
