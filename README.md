@@ -1,7 +1,7 @@
 # api_rest_node
 This is the repository for my REST api. it uses Node js, and Express js. It can also be started with PM2. Enjoy!
 
-# api_rest_node
+# api_rest_node v2
 This is the second version of my Rest Api. It now has two entry points. You can run simultaneously the two entry points which are index.js and server.js. 
 
 The index.js has the following endpoints: /app/data, /app/datadk and /app/data2. It provides data from json files. 
