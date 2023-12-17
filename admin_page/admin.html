@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dall Diamm Admin</title>
+  <link rel="stylesheet" href="admin.css">
+
+</head>
+<body>
+
+  <div class="header">
+    <h1 id="titre" style="font-size: 50px;">Dall Diamm Electromenager - ADMIN</h1>
+  </div>
+  <button id="propositionsButton">Propositions</button>
+<aside id="propositionsSection" style="display: none;"></aside>
+    <div id="add-record-form">
+      <h2 style="background: none;">Add New Record</h2>
+      <div id="dynamic-form"></div>
+      <div class="search">
+        <input type="search" name="" id="search-bar">
+      </div>
+    </div>
+    
+    <h2>Data</h2>
+    <div id="navigate">
+
+    <button id= 'getDataElectronique' onclick="getData('electronique')">Electronique</button>
+<button id= 'getDataElectromenager' onclick="getData('electromenager')">Electromenager</button>
+<button id= 'getDataLuminaire' onclick="getData('luminaire')">Luminaire</button>
+    </div>
+    <table id="json-table"></table>
+  
+  
+  <div id="popup-container" class="popup">
+    <form id="modify-form">
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name" required>
+
+      <label for="location">Location:</label>
+      <input type="text" id="location" name="location" required>
+
+      <label for="price">Price:</label>
+      <input type="text" id="price" name="price" required>
+
+      <label for="image-url">Image URL:</label>
+      <input type="url" id="image-url" name="image-url" required>
+
+      <button type="submit">Save</button>
+    </form>
+  </div>
+  
+  <script src="admin.js"></script>
+</body>
+</html>
