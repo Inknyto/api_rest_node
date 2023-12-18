@@ -5,9 +5,9 @@ const { Pool } = require('pg');
 const pool = new Pool({
   host: 'localhost',
   port: 5432,
-  database: 'dall_diamm_api',
-  user: 'fatou',
-  password: 'fatou',
+  database: 'dall_diamm',
+  user: 'nyto',
+  password: 'thedatabase',
 });
 
 module.exports = pool

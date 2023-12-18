@@ -25,7 +25,7 @@ app.get('/app/hello', (req, res) => {
 
 app.get('/app/data', async (req, res) => {
   try {
-    const data = await fs.readFile('data.json');
+    const data = await fs.readFile('../data/data.json');
     res.json(JSON.parse(data));
   } catch (err) {
     console.error(err);
@@ -35,7 +35,7 @@ app.get('/app/data', async (req, res) => {
 
 app.get('/app/data2', async (req, res) => {
   try {
-    const data2 = await fs.readFile('data2.json');
+    const data2 = await fs.readFile('../data/data2.json');
     res.json(JSON.parse(data2));
   } catch (err) {
     console.error(err);
@@ -45,7 +45,7 @@ app.get('/app/data2', async (req, res) => {
 
 app.get('/app/datadk', async (req, res) => {
   try {
-    const datadk = await fs.readFile('datadk.json');
+    const datadk = await fs.readFile('../data/datadk.json');
     res.json(JSON.parse(datadk));
   } catch (err) {
     console.error(err);

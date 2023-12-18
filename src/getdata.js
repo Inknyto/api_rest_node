@@ -1,6 +1,6 @@
 const SerpApi = require('google-search-results-nodejs');
 const fs = require ('fs')
-const search = new SerpApi.GoogleSearch("042577b4184f0a2496b757891c05a4c85605ffc35544478e87f893daf1fb9f74");
+const search = new SerpApi.GoogleSearch("");
 
 const params = {
   engine: "google_jobs",

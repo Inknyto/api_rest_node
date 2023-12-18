@@ -4,11 +4,11 @@ const bodyParser = require('body-parser');
 const cors = require('cors');
 
 const pool = new Pool({
-  user: 'fatou',
+  user: 'nyto',
   host: 'localhost',
-  database: 'dall_diamm_api',
-  password: 'fatou',
-  port: 5432, // default PostgreSQL port
+  database: 'dall_diamm',
+  password: 'thedatabase',
+  port: 5432,
 });
 
 const express = require('express');
@@ -91,7 +91,7 @@ app.get('/', (req, res) => {
 app.post("/propositions", (req, res) => {
     const postData = req.body;
     // Assuming the JSON file is named "propositions.json"
-    fs.readFile("propositions.json", "utf8", (err, data) => {
+    fs.readFile("../data/propositions.json", "utf8", (err, data) => {
         if (err) {
             console.error(err);
             return res.status(500).json({ error: "Failed to read data." });

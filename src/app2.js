@@ -5,10 +5,10 @@ const bodyParser = require('body-parser');
 
 
 const pool = new Pool({
-  user: 'fatou',
+  user: 'nyto',
   host: 'localhost',
-  database: 'dall_diamm_api',
-  password: 'fatou',
+  database: 'dall_diamm',
+  password: 'thedatabase',
   port: 5432, // default PostgreSQL port
 });
 
